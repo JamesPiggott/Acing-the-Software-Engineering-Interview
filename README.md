@@ -7,6 +7,7 @@ So essentially this list is structured into 2 knowledge parts: must know knowled
 The list includes references to texts, web pages, YouTube videos, MOOCs and Books. I intend to go easy on reading books and just give you the essential list. Reading takes up a lot of time and I fear knowledge is not retained. The scope of this list is also paired down as much as possible. 
 
 ## Short description of Goals
+
 ### Things I want to achieve
 	- Go through all the relevant subject material - even stuff I already know. By proceeding through all the material over a period of several months may help me understand the big picture of Computer Science.
 	- Code a lot. I want to implement all the relevant examples of algorithms, data structures and applications to gain practical experience.
@@ -41,11 +42,13 @@ For the interview you will need to select one programming language. I have made 
 
 ### Data Structures
 For the study of data structures and algorithms a three-pronged approach is used. First, a short descriptive video is linked (usually YouTube). Second, a simple implementation is referenced which the reader can examine. Third and finally a short descriptive text is linked in which the topic is discussed.
+	
 	- Arrays
 	- Linked Lists
 	- Stack
 	- Queue
 	- Hash table
+	
 ### Algorithms
 
 ### Sorting algorithms
@@ -75,12 +78,14 @@ Network coding
 ### More Books
 ### More Programming languages
 The coding interviews taking by large companies usually concentrate on just one language. The interviewee can choose form a small: usually C, Java or Python. However, there is a much larger world involving databases and web programming. Knowing other languages becomes vital – just not for the interview. Try and choose from the list below.
+	
 	- Go
 	- R
 	- Swift
 	- Ruby
 	- Julia
 	- JavaScript
+	
 ### Web Programming
 ### Learning Linux
 
