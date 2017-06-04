@@ -15,7 +15,7 @@ The list includes references to texts, web pages, YouTube videos, MOOCs and Book
 	- Retain as much knowledge as possible. Try and find a way to retain the knowledge.
 	- Learn practical tips to becoming a Software Engineer. This means practicing for the interview, deals with issues such as fear and how to work in an Agile / SCRUM way.
 
-	### Things I don’t want to do
+### Things I don’t want to do
 	- Spend all of my free time on becoming a Software Engineer. John Washam admits he spent far too much time on this project. Currently I have a job and I don’t need a burnout.
 	- Lose overview. There is such a thing as doing too much. Knowing when to stop is important and I will put that to the test.
 	- Not to be afraid to re-invent the wheel. The goal is not to do something new, the goal is to learn to do something new.
