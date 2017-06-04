@@ -25,6 +25,7 @@ Here are some quick tutorials and tips to prepare for the interview process. I t
 
 	- [ABC - Always Be Coding] (https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
 	- Whiteboarding: https://writing.pupius.co.uk/whiteboarding-4df873dbba2e
+	- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 
 ## Pick a language
 For the interview you will need to select one programming language. I have made the choice for you as I use Java. However, you will need to know more. You will also need to know a scripting language. The obvious choice is Python, which is also popular with Machine Learning.
