@@ -79,7 +79,10 @@ Network coding
 ### More Programming languages
 The coding interviews taking by large companies usually concentrate on just one language. The interviewee can choose form a small: usually C, Java or Python. However, there is a much larger world involving databases and web programming. Knowing other languages becomes vital – just not for the interview. Try and choose from the list below.
 	
-	- Go
+	- Go: Google's own multi-paradigm language.
+		Book: The Go Programming Language (https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
+		Video: https://www.youtube.com/watch?v=29LLRKIL_TI
+		
 	- R
 	- Swift
 	- Ruby
