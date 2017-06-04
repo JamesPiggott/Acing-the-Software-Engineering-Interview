@@ -23,7 +23,7 @@ The list includes references to texts, web pages, YouTube videos, MOOCs and Book
 ## Interview Process & General Interview Prep
 Here are some quick tutorials and tips to prepare for the interview process. I think it will give you a quick impression of what you don’t know!
 
-	- ABC - Always Be Coding: https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2
+	- [ABC - Always Be Coding] (https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
 	- Whiteboarding: https://writing.pupius.co.uk/whiteboarding-4df873dbba2e
 
 ## Pick a language
