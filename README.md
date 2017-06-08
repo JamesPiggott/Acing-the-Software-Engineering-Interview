@@ -76,13 +76,13 @@ Graphs can be traversed with algorithms such as:
 	- Breadth-first search
 	- Deptth-first search
 	- Dijkstra's algorithm
-		- Den of Geeks: http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/
-		- Video: https://www.youtube.com/watch?v=gdmfOwyQlcI
+		- [Den of Geeks] (http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/)
+		- [Video] (https://www.youtube.com/watch?v=gdmfOwyQlcI)
 	- A* algorithm
-		- Redblobgames: http://www.redblobgames.com/pathfinding/a-star/introduction.html
-		- Stanford: http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
+		- [Redblobgames] (http://www.redblobgames.com/pathfinding/a-star/introduction.html)
+		- [Stanford] (http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
 	- Priority Queue
-		StackOverflow: http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue
+		- [StackOverflow] (http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue)
 
 ### Advanced Java
 Recursion
