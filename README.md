@@ -53,7 +53,7 @@ For the study of data structures and algorithms a three-pronged approach is used
 	
 ### Algorithms
 
-### Sorting algorithms
+#### Sorting algorithms
 	- Selection sort
 		- Video: https://www.youtube.com/watch?v=cJF9vjz89vU
 	- Insertion sort
@@ -61,7 +61,26 @@ For the study of data structures and algorithms a three-pronged approach is used
 	- Heapsort
 	- Quicksort
 	- Merge sort
-### Searching algorithms
+#### Searching algorithms
+
+### Graphs
+Graphs are an important aspect in Computer Science. Many problems can be explained and solved as Graphs. An example would be social networks, personal relations can be seen as graph edges.
+
+Graphs can be represented as
+	- Adjancency Matrix
+	- Adjency List
+	
+Graphs can be traversed with algorithms such as:
+	- Breadth-first search
+	- Deptth-first search
+	- Dijkstra's algorithm
+		- Den of Geeks: http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/
+		- Video: https://www.youtube.com/watch?v=gdmfOwyQlcI
+	- A* algorithm
+		- Redblobgames: http://www.redblobgames.com/pathfinding/a-star/introduction.html
+		- Stanford: http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
+	- Priority Queue
+		StackOverflow: http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue
 
 ### Advanced Java
 Recursion
