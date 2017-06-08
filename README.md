@@ -23,8 +23,8 @@ The list includes references to texts, web pages, YouTube videos, MOOCs and Book
 ## Interview Process & General Interview Prep
 Here are some quick tutorials and tips to prepare for the interview process. I think it will give you a quick impression of what you don’t know!
 
-- [ ] [ABC - Always Be Coding] (https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
-- [ ] [Whiteboarding] (https://writing.pupius.co.uk/whiteboarding-4df873dbba2e)
+- [ ] [ABC - Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
+- [ ] [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 
 ## Pick a language
@@ -76,13 +76,13 @@ Graphs can be traversed with algorithms such as:
 	- Breadth-first search
 	- Deptth-first search
 	- Dijkstra's algorithm
-		- [Den of Geeks] (http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/)
-		- [Video] (https://www.youtube.com/watch?v=gdmfOwyQlcI)
+		- [Den of Geeks](http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/)
+		- [Video](https://www.youtube.com/watch?v=gdmfOwyQlcI)
 	- A* algorithm
-		- [Redblobgames] (http://www.redblobgames.com/pathfinding/a-star/introduction.html)
-		- [Stanford] (http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
+		- [Redblobgames](http://www.redblobgames.com/pathfinding/a-star/introduction.html)
+		- [Stanford](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
 	- Priority Queue
-		- [StackOverflow] (http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue)
+		- [StackOverflow](http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue)
 
 ### Advanced Java
 Recursion
