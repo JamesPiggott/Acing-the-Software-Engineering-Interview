@@ -67,10 +67,12 @@ For the study of data structures and algorithms a three-pronged approach is used
 Graphs are an important aspect in Computer Science. Many problems can be explained and solved as Graphs. An example would be social networks, personal relations can be seen as graph edges.
 
 Graphs can be represented as
+
 	- Adjancency Matrix
 	- Adjency List
 	
 Graphs can be traversed with algorithms such as:
+
 	- Breadth-first search
 	- Deptth-first search
 	- Dijkstra's algorithm
