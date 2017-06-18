@@ -45,8 +45,10 @@ For the interview you will need to select one programming language. I have made 
 ### Data Structures
 For the study of data structures and algorithms a three-pronged approach is used. First, a short descriptive video is linked (usually YouTube). Second, a simple implementation is referenced which the reader can examine. Third and finally a short descriptive text is linked in which the topic is discussed.
 	
-	- Arrays
+- [ ] Arrays: in Java understand the difference between a static array and a dynamic (of type) Array. Understand why the latter is slower.
+		- [ ] [Video](https://www.youtube.com/watch?v=eNPX2pTiaHI)
 	- Linked Lists
+		- [ ] [Video comparison of ArrayList and LinkedList](https://www.youtube.com/watch?v=WmvpGvQcVYs)
 	- Stack
 	- Queue
 	- Hash table
@@ -62,6 +64,9 @@ For the study of data structures and algorithms a three-pronged approach is used
 	- Quicksort
 	- Merge sort
 #### Searching algorithms
+Both search algorithm below are simple to implement, perhaps even trivial. Yet they anturally flow into the topic of Graphs.
+- [ ] Linear Searching
+- [ ] Binary Search
 
 ### Graphs
 Graphs are an important aspect in Computer Science. Many problems can be explained and solved as Graphs. An example would be social networks, personal relations can be seen as graph edges.
@@ -96,6 +101,10 @@ Endianness
 Network coding
 
 ## Machine Learning
+### Books
+- [ ] [Machine Learning: An Algorithmic Perspective](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=WMZP7275AW67BMKFSPX2)
+- [ ] [Python Deep Learning](https://www.amazon.com/Python-Deep-Learning-Valentino-Zocca/dp/1786464454/ref=sr_1_1?s=books&ie=UTF8&qid=1497788093&sr=1-1&keywords=python+deep+learning)
+- [ ] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/ref=sr_1_1?s=books&ie=UTF8&qid=1497788137&sr=1-1&keywords=neural+networks)
 
 ## Other topics
 ### More Books
