@@ -46,9 +46,9 @@ For the interview you will need to select one programming language. I have made 
 For the study of data structures and algorithms a three-pronged approach is used. First, a short descriptive video is linked (usually YouTube). Second, a simple implementation is referenced which the reader can examine. Third and finally a short descriptive text is linked in which the topic is discussed.
 	
 - [ ] Arrays: understand the (speed) difference between a static array and a dynamic (of type) Array.
-		- [ ] [Video](https://www.youtube.com/watch?v=eNPX2pTiaHI)
+	- [ ] [Video](https://www.youtube.com/watch?v=eNPX2pTiaHI)
 - [ ] Linked Lists
-		- [ ] [Video comparison of ArrayList and LinkedList](https://www.youtube.com/watch?v=WmvpGvQcVYs)
+	- [ ] [Video comparison of ArrayList and LinkedList](https://www.youtube.com/watch?v=WmvpGvQcVYs)
 - [ ] Stack
 - [ ] Queue
 - [ ] Hash table
