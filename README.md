@@ -47,11 +47,11 @@ For the study of data structures and algorithms a three-pronged approach is used
 	
 - [ ] Arrays: understand the (speed) difference between a static array and a dynamic (of type) Array.
 		- [ ] [Video](https://www.youtube.com/watch?v=eNPX2pTiaHI)
-	- Linked Lists
+- [ ] Linked Lists
 		- [ ] [Video comparison of ArrayList and LinkedList](https://www.youtube.com/watch?v=WmvpGvQcVYs)
-	- Stack
-	- Queue
-	- Hash table
+- [ ] Stack
+- [ ] Queue
+- [ ] Hash table
 	
 ### Algorithms
 
