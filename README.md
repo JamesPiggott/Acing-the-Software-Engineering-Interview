@@ -45,7 +45,7 @@ For the interview you will need to select one programming language. I have made 
 ### Data Structures
 For the study of data structures and algorithms a three-pronged approach is used. First, a short descriptive video is linked (usually YouTube). Second, a simple implementation is referenced which the reader can examine. Third and finally a short descriptive text is linked in which the topic is discussed.
 	
-- [ ] Arrays: in Java understand the difference between a static array and a dynamic (of type) Array. Understand why the latter is slower.
+- [ ] Arrays: understand the (speed) difference between a static array and a dynamic (of type) Array.
 		- [ ] [Video](https://www.youtube.com/watch?v=eNPX2pTiaHI)
 	- Linked Lists
 		- [ ] [Video comparison of ArrayList and LinkedList](https://www.youtube.com/watch?v=WmvpGvQcVYs)
@@ -67,6 +67,7 @@ For the study of data structures and algorithms a three-pronged approach is used
 Both search algorithm below are simple to implement, perhaps even trivial. Yet they anturally flow into the topic of Graphs.
 - [ ] Linear Searching
 - [ ] Binary Search
+	- [ ] [Video](https://www.youtube.com/watch?v=1ruyrpTKGZk)
 
 ### Graphs
 Graphs are an important aspect in Computer Science. Many problems can be explained and solved as Graphs. An example would be social networks, personal relations can be seen as graph edges.
