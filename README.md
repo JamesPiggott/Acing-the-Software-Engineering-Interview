@@ -94,15 +94,15 @@ Graphs can be traversed with algorithms such as:
 	- [ ] [StackOverflow](http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue)
 
 ### Advanced Java
-Recursion
-Object-Oriented Programming
-Design Patterns
-Multi-Threading
-String searching
-Tries
-Unicode
-Endianness
-Network coding
+- [ ] Recursion
+- [ ] Object-Oriented Programming
+- [ ] Design Patterns
+- [ ] Multi-Threading
+- [ ] String searching
+- [ ] Tries
+- [ ] Unicode
+- [ ] Endianness
+- [ ] Network coding
 
 ## Machine Learning
 ### Books
@@ -112,18 +112,22 @@ Network coding
 
 ## Other topics
 ### More Books
-### More Programming languages
+- [ ] [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=la_B001JP4N76_1_3?s=books&ie=UTF8&qid=1497793864&sr=1-3&refinements=p_82%3AB001JP4N76)
+	- An essential must read for it chapters on Crytpology, Network attacks and Stack Overflows. The book is not an tome, but beginners might have some difficulty.
+- [ ] [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275951/ref=la_B00JAM3QNC_1_1?s=books&ie=UTF8&qid=1497794043&sr=1-1&refinements=p_82%3AB00JAM3QNC)
+	- This books by Georgia Weidman has been a favorite of mine since 2014. It is both both broad and in-depth and covers most topics regarding computer hacking.
+
+	### More Programming languages
 The coding interviews taking by large companies usually concentrate on just one language. The interviewee can choose form a small: usually C, Java or Python. However, there is a much larger world involving databases and web programming. Knowing other languages becomes vital – just not for the interview. Try and choose from the list below.
 	
-	- Go: Google's own multi-paradigm language.
-		Book: The Go Programming Language (https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
-		Video: https://www.youtube.com/watch?v=29LLRKIL_TI
-		
-	- R
-	- Swift
-	- Ruby
-	- Julia
-	- JavaScript
+- [ ] Go: Google's own multi-paradigm language.
+	- Book: The Go Programming Language (https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
+	- Video: https://www.youtube.com/watch?v=29LLRKIL_TI	
+- [ ] R
+- [ ] Swift
+- [ ] Ruby
+- [ ] Julia
+- [ ] JavaScript
 	
 ### Web Programming
 ### Learning Linux
