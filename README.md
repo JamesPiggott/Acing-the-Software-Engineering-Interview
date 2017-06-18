@@ -33,7 +33,7 @@ For the interview you will need to select one programming language. I have made 
 ## Book List
 ### Introductory
 - [ ] [Linux, Programming and Hacking for Beginners](https://www.amazon.com/dp/B01N0CF3L5)
-    - This is a book that I wrote. It is an abolute beginneers text to Linux, with some programmign and Hacking. The text is written in a light-hearted tone and a number of side articles in which I explain topics of Computer Science. I also review several movies, games and books in which CS plays an important part. For $3.99 you pick up your own copy on Amazon and thereby support me.
+    - This is a book that I wrote. It is an abolute beginners text to Linux, with some programming and Hacking. The text is written in a light-hearted tone and contains a number of side articles in which I explain topics of Computer Science. I also review several movies, games and books in which CS plays an important part. For $3.99 you pick up your own copy on Amazon and thereby support me.
 ### Java
 	- Algorithms (Sedgewick and Wayne)
 ### Python
