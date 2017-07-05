@@ -110,6 +110,19 @@ Graphs can be traversed with algorithms such as:
 - [ ] [Python Deep Learning](https://www.amazon.com/Python-Deep-Learning-Valentino-Zocca/dp/1786464454/ref=sr_1_1?s=books&ie=UTF8&qid=1497788093&sr=1-1&keywords=python+deep+learning)
 - [ ] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/ref=sr_1_1?s=books&ie=UTF8&qid=1497788137&sr=1-1&keywords=neural+networks)
 
+### Deep Learning
+Deep Learning is quickly becoming a craze, and I think it is deservedly so. For an excellent but easy introduction read Python Deep Learning. There is a link above. For specific applications I have posted links below
+
+#### Keras
+- [ ] [Deploying Keras solution](https://www.youtube.com/watch?v=f6Bf3gl4hWY)
+
+
+#### TensorFlow
+
+#### Theano
+
+All three topics above are about using Deep Learning with Python. It shows you why Python is so important.
+
 ## Other topics
 ### More Books
 - [ ] [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=la_B001JP4N76_1_3?s=books&ie=UTF8&qid=1497793864&sr=1-3&refinements=p_82%3AB001JP4N76)
