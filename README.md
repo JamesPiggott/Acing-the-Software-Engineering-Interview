@@ -55,6 +55,12 @@ For the study of data structures and algorithms a three-pronged approach is used
 - [ ] Stack
 - [ ] Queue
 - [ ] Hash table
+	- [ ] [Introduction Video](https://www.youtube.com/watch?v=MfhjkfocRR0)
+	- [ ] [CS50 tutorial with Lauren](https://www.youtube.com/watch?v=h2d9b_nEzoA)
+	- [ ] [CS50 tutorial with Doug](https://www.youtube.com/watch?v=tjtFkT97Xmc)
+
+	- [ ] implement hash table with chaining
+	- [ ] implement hash table with linear probing
 	
 ### Algorithms
 
