@@ -100,6 +100,9 @@ Graphs can be traversed with algorithms such as:
 	- [ ] [StackOverflow](http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue)
 
 ### Advanced Java
+- [ ] Bitwise Operations
+	- [ ] A question on how to swap two variables without using a third is bound to come up in an job interview. The small video below gives an implementation. Try to expand it with a speed test!
+		- [ ] [Video](https://www.youtube.com/watch?v=mJG1DManmLc)
 - [ ] Recursion
 - [ ] Object-Oriented Programming
 - [ ] Design Patterns
@@ -108,6 +111,7 @@ Graphs can be traversed with algorithms such as:
 - [ ] Tries
 - [ ] Unicode
 - [ ] Endianness
+	- [ ] [Micheal gives a small introduction](https://www.youtube.com/watch?v=JrNF0KRAlyo)
 - [ ] Network coding
 
 ## Machine Learning
