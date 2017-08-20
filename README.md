@@ -112,7 +112,30 @@ Graphs can be traversed with algorithms such as:
 - [ ] Unicode
 - [ ] Endianness
 	- [ ] [Micheal gives a small introduction](https://www.youtube.com/watch?v=JrNF0KRAlyo)
-- [ ] Network coding
+
+#### Network coding
+A basic understanding of network coding is needed if you are expected to connect appliations. Luckily Java is very powerfull and makes network coding easy!
+- [ ] [Java Sockets 1 of 3](https://www.youtube.com/watch?v=6G_W54zuadg&t=6s)
+- [ ] [Java Sockets 2 of 3](https://www.youtube.com/watch?v=Uo5DY546rKY)
+- [ ] [Java Sockets 3 of 3](https://www.youtube.com/watch?v=mJG1DManmLc)
+- [ ] [Exerise: create a chat program. Allow to clients to communicate through a server]
+
+Now you should have the basic skills toc reate applications. If you want to prepare thoroughly for the interview I suggest you also watch and read the following tutorials. Try to create small programs to improve your understanding. It is not necessary to have 2 computers but it is recommended to try
+
+Basics of Internet, OSI model
+- [ ] [TCP/IP and the OSI Model Explained!] (https://www.youtube.com/watch?v=e5DEVa9eSN0)
+
+Advanced Networking -> moving to the hacker realm
+
+
+Remote Method Invocation
+- [ ] [A quick practical tutorial] (https://www.mkyong.com/java/java-rmi-hello-world-example/)
+- [ ] [Another small tutorial] (https://www.cs.ucsb.edu/~cappello/lectures/rmi/helloworld.shtml)
+- [ ] [Part 1 of 3: Simple Java RMI Tutorial] (https://www.youtube.com/watch?v=ILeAeFZOkMI)
+- [ ] [Part 2 of 3: Simple Java RMI Tutorial] (https://www.youtube.com/watch?v=OjXTkgW0wDQ)
+- [ ] [Part 3 of 3: Simple Java RMI Tutorial] (https://www.youtube.com/watch?v=vkw275ptI3E)
+Arguably Remote Method Invocation straddles Network coding and application programming, but if you want a job at a large company you may need to know it.
+
 
 ## Machine Learning
 ### Books
