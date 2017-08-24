@@ -43,7 +43,8 @@ For the interview you will need to select one programming language. I have made 
 ### Basics of Java
 
 ### Algorithmic complexity / Big-O / Asymptotic analysis
-	- Cheat sheet: http://bigocheatsheet.com/ also exists as a PDF in this repository.
+- [ ] [Cheat sheet] (http://bigocheatsheet.com/)
+- [ ] [Introduction Video]	(https://www.youtube.com/watch?v=V6mKVRU1evU)
 
 ### Data Structures
 For the study of data structures and algorithms a three-pronged approach is used. First, a short descriptive video is linked (usually YouTube). Second, a simple implementation is referenced which the reader can examine. Third and finally a short descriptive text is linked in which the topic is discussed.
@@ -58,7 +59,6 @@ For the study of data structures and algorithms a three-pronged approach is used
 	- [ ] [Introduction Video](https://www.youtube.com/watch?v=MfhjkfocRR0)
 	- [ ] [CS50 tutorial with Lauren](https://www.youtube.com/watch?v=h2d9b_nEzoA)
 	- [ ] [CS50 tutorial with Doug](https://www.youtube.com/watch?v=tjtFkT97Xmc)
-
 	- [ ] implement hash table with chaining
 	- [ ] implement hash table with linear probing
 	
@@ -72,6 +72,7 @@ For the study of data structures and algorithms a three-pronged approach is used
 	- Heapsort
 	- Quicksort
 	- Merge sort
+
 #### Searching algorithms
 Both search algorithm below are simple to implement, perhaps even trivial. Yet they anturally flow into the topic of Graphs.
 - [ ] Linear Searching
@@ -127,7 +128,6 @@ Basics of Internet, OSI model
 
 Advanced Networking -> moving to the hacker realm
 
-
 Remote Method Invocation
 - [ ] [A quick practical tutorial] (https://www.mkyong.com/java/java-rmi-hello-world-example/)
 - [ ] [Another small tutorial] (https://www.cs.ucsb.edu/~cappello/lectures/rmi/helloworld.shtml)
@@ -135,6 +135,14 @@ Remote Method Invocation
 - [ ] [Part 2 of 3: Simple Java RMI Tutorial] (https://www.youtube.com/watch?v=OjXTkgW0wDQ)
 - [ ] [Part 3 of 3: Simple Java RMI Tutorial] (https://www.youtube.com/watch?v=vkw275ptI3E)
 Arguably Remote Method Invocation straddles Network coding and application programming, but if you want a job at a large company you may need to know it.
+
+### Other Topics
+#### Garbage collection
+- [ ] [Garbage collection in Java] (https://www.youtube.com/watch?v=UnaNQgzw4zY)
+
+### Mathematics
+#### Logarithms
+- [ ] [Logarithms, Explained 3 minute video] (https://www.youtube.com/watch?v=zzu2POfYv0Y)
 
 
 ## Machine Learning
