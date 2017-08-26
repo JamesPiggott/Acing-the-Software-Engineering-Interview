@@ -136,7 +136,7 @@ Remote Method Invocation
 - [ ] [Part 3 of 3: Simple Java RMI Tutorial] (https://www.youtube.com/watch?v=vkw275ptI3E)
 Arguably Remote Method Invocation straddles Network coding and application programming, but if you want a job at a large company you may need to know it.
 
-### Other Topics
+### More Java Topics
 #### Garbage collection
 - [ ] [Garbage collection in Java] (https://www.youtube.com/watch?v=UnaNQgzw4zY)
 
@@ -165,6 +165,21 @@ Deep Learning is quickly becoming a craze, and I think it is deservedly so. For 
 
 All three topics above are about using Deep Learning with Python. It shows you why Python is so important.
 
+## Practicing for the Interview
+After learning many of the topics described in the sections on Software Engineering and Machine Learning you should have a well rounded knowledge base. To get actually get a job at the company of your choice you will need to ace the interview. This section will concentrate on all that is necessary to accomplish just that. If you want to continue learning take a look at the section below entitled Other Topics.
+
+### Coding Exercises
+If you are uncertain how well you can code when facing an unexpected challenge try a coding challenge. Seriously there are plenty of online challenge sites.
+
+Some help with challenges
+- [ ] [TopCode tips] (https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
+
+Challenge websites
+- [ ] [TopCode] (https://www.topcoder.com/)
+- [ ] [Interactive Jupiter Python] (https://github.com/donnemartin/interactive-coding-challenges)
+  
+
+
 ## Other topics
 ### More Books
 - [ ] [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=la_B001JP4N76_1_3?s=books&ie=UTF8&qid=1497793864&sr=1-3&refinements=p_82%3AB001JP4N76)
@@ -172,19 +187,20 @@ All three topics above are about using Deep Learning with Python. It shows you w
 - [ ] [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275951/ref=la_B00JAM3QNC_1_1?s=books&ie=UTF8&qid=1497794043&sr=1-1&refinements=p_82%3AB00JAM3QNC)
 	- This books by Georgia Weidman has been a favorite of mine since 2014. It is both both broad and in-depth and covers most topics regarding computer hacking.
 
-	### More Programming languages
-The coding interviews taking by large companies usually concentrate on just one language. The interviewee can choose form a small: usually C, Java or Python. However, there is a much larger world involving databases and web programming. Knowing other languages becomes vital – just not for the interview. Try and choose from the list below.
+### More Programming languages
+The coding interviews taking by large companies usually concentrate on just one language. The interviewee can choose from a small selection: usually C, Java or Python. However, there is a much larger world involving databases and web programming. Knowing other languages becomes vital – just not for the interview. Try and choose from the list below.
 	
 - [ ] Go: Google's own multi-paradigm language.
 	- Book: The Go Programming Language (https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
 	- Video: https://www.youtube.com/watch?v=29LLRKIL_TI	
-- [ ] R
+- [ ] R: A language that focuses on statisical analysis, but it has lost some important in Machine Learning in favor of Python.
 - [ ] Swift
 - [ ] Ruby
-- [ ] Julia
+- [ ] Julia: A new scientific general purpose language.
 - [ ] JavaScript
 	
 ### Web Programming
+
 ### Learning Linux
 
 
