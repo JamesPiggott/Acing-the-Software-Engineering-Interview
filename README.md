@@ -153,6 +153,7 @@ Arguably Remote Method Invocation straddles Network coding and application progr
 
 ### Deep Learning
 Deep Learning is quickly becoming a craze, and I think it is deservedly so. For an excellent but easy introduction read Python Deep Learning. There is a link above. For specific applications I have posted links below
+- [ ] [Cheat Sheets] (https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
 #### Keras
 - [ ] [Deploying Keras solution](https://www.youtube.com/watch?v=f6Bf3gl4hWY)
