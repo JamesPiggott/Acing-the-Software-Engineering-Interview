@@ -65,13 +65,20 @@ For the study of data structures and algorithms a three-pronged approach is used
 ### Algorithms
 
 #### Sorting algorithms
-	- Selection sort
-		- Video: https://www.youtube.com/watch?v=cJF9vjz89vU
-	- Insertion sort
-		- Video: https://www.youtube.com/watch?v=alh3Jme9LZs
-	- Heapsort
-	- Quicksort
-	- Merge sort
+- [ ] Selection sort
+	- [ ] [Sedgewick: Selection sort] (https://www.youtube.com/watch?v=cJF9vjz89vU)
+- [ ] Insertion sort
+	- [ ] [Sedgewick: Insertion sort] (https://www.youtube.com/watch?v=alh3Jme9LZs)
+- [ ] Merge sort
+	- [ ] [Sedgewick: Merge sort] (https://www.youtube.com/watch?v=Sk7IZESPgjk)
+- [ ] Heapsort
+	- [ ] [In 4 minutes] (https://www.youtube.com/watch?v=2DmK_H7IdTo)
+	- [ ] [Sedgewick: Binary Heap] (https://www.youtube.com/watch?v=YXCeM7w1630&list=PLxc4gS-_A5VDXUIOPkJkwQKYiT2T1t0I8&index=35)
+	- [ ] [Sedgewick: Heapsort] (https://www.youtube.com/watch?v=H7rI5qtsf_Y&index=36&list=PLxc4gS-_A5VDXUIOPkJkwQKYiT2T1t0I8)
+- [ ] Quicksort
+	- [ ] [In 4 minutes] (https://www.youtube.com/watch?v=Hoixgm4-P4M)
+	- [ ] [Sedgeqick: Quicksort] (https://www.youtube.com/watch?v=lJd7vhhCclg)
+- [ ] To cap it off read the wiki page throughly (https://en.wikipedia.org/wiki/Sorting_algorithm)
 
 #### Searching algorithms
 Both search algorithm below are simple to implement, perhaps even trivial. Yet they anturally flow into the topic of Graphs.
