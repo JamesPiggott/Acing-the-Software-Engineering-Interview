@@ -78,7 +78,7 @@ For the study of data structures and algorithms a three-pronged approach is used
 - [ ] Quicksort
 	- [ ] [In 4 minutes](https://www.youtube.com/watch?v=Hoixgm4-P4M)
 	- [ ] [Sedgeqick: Quicksort](https://www.youtube.com/watch?v=lJd7vhhCclg)
-- [ ] To cap it off read the wiki page throughly(https://en.wikipedia.org/wiki/Sorting_algorithm)
+- [ ] To cap it off read the wiki page throughly [Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm)
 
 #### Searching algorithms
 Both search algorithm below are simple to implement, perhaps even trivial. Yet they anturally flow into the topic of Graphs.
