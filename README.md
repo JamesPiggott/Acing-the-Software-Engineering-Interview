@@ -131,25 +131,25 @@ A basic understanding of network coding is needed if you are expected to connect
 Now you should have the basic skills toc reate applications. If you want to prepare thoroughly for the interview I suggest you also watch and read the following tutorials. Try to create small programs to improve your understanding. It is not necessary to have 2 computers but it is recommended to try
 
 ##### Basics of Internet, OSI model
-- [ ] [TCP/IP and the OSI Model Explained!] (https://www.youtube.com/watch?v=e5DEVa9eSN0)
+- [ ] [TCP/IP and the OSI Model Explained!](https://www.youtube.com/watch?v=e5DEVa9eSN0)
 
 Advanced Networking -> moving to the hacker realm
 
 ##### Remote Method Invocation
-- [ ] [A quick practical tutorial] (https://www.mkyong.com/java/java-rmi-hello-world-example/)
-- [ ] [Another small tutorial] (https://www.cs.ucsb.edu/~cappello/lectures/rmi/helloworld.shtml)
-- [ ] [Part 1 of 3: Simple Java RMI Tutorial] (https://www.youtube.com/watch?v=ILeAeFZOkMI)
-- [ ] [Part 2 of 3: Simple Java RMI Tutorial] (https://www.youtube.com/watch?v=OjXTkgW0wDQ)
-- [ ] [Part 3 of 3: Simple Java RMI Tutorial] (https://www.youtube.com/watch?v=vkw275ptI3E)
+- [ ] [A quick practical tutorial](https://www.mkyong.com/java/java-rmi-hello-world-example/)
+- [ ] [Another small tutorial](https://www.cs.ucsb.edu/~cappello/lectures/rmi/helloworld.shtml)
+- [ ] [Part 1 of 3: Simple Java RMI Tutorial](https://www.youtube.com/watch?v=ILeAeFZOkMI)
+- [ ] [Part 2 of 3: Simple Java RMI Tutorial](https://www.youtube.com/watch?v=OjXTkgW0wDQ)
+- [ ] [Part 3 of 3: Simple Java RMI Tutorial](https://www.youtube.com/watch?v=vkw275ptI3E)
 Arguably Remote Method Invocation straddles Network coding and application programming, but if you want a job at a large company you may need to know it.
 
 ### More Java Topics
 #### Garbage collection
-- [ ] [Garbage collection in Java] (https://www.youtube.com/watch?v=UnaNQgzw4zY)
+- [ ] [Garbage collection in Java](https://www.youtube.com/watch?v=UnaNQgzw4zY)
 
 ### Mathematics
 #### Logarithms
-- [ ] [Logarithms, Explained 3 minute video] (https://www.youtube.com/watch?v=zzu2POfYv0Y)
+- [ ] [Logarithms, Explained 3 minute video](https://www.youtube.com/watch?v=zzu2POfYv0Y)
 
 
 ## Machine Learning
