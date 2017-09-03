@@ -81,22 +81,22 @@ For the study of data structures and algorithms a three-pronged approach is used
 - [ ] To cap it off read the wiki page throughly [Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm)
 
 #### Searching algorithms
-Both search algorithm below are simple to implement, perhaps even trivial. Yet they anturally flow into the topic of Graphs.
+Both search algorithm below are simple to implement, perhaps even trivial. Yet they naturally flow into the topic of Graphs.
 - [ ] Linear Searching
 - [ ] Binary Search
 	- [ ] [Video](https://www.youtube.com/watch?v=1ruyrpTKGZk)
 
 ### Graphs
-Graphs are an important aspect in Computer Science. Many problems can be explained and solved as Graphs. An example would be social networks, personal relations can be seen as graph edges.
+Graphs are an important aspect in Computer Science. Many problems can be explained and solved as Graphs.
+- [ ] [Sedgewick: 9 minute introduction](https://www.youtube.com/watch?v=f_-qGQgzBLg&t=331s)
 
 Graphs can be represented as
-
-	- Adjancency Matrix
-	- Adjency List
+- [ ] Adjancency Matrix(https://www.youtube.com/watch?v=9C2cpQZVRBA)
+- [ ] Adjency List(https://www.youtube.com/watch?v=k1wraWzqtvQ)
 	
 Graphs can be traversed with algorithms such as:
-
 - [ ] Breadth-first search
+	- [ ] [MIT: 50 minutes](https://www.youtube.com/watch?v=s-CYnVz-uh4)
 - [ ] Depth-first search
 - [ ] Dijkstra's algorithm
 	- [ ] [Den of Geeks](http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/)
@@ -106,6 +106,8 @@ Graphs can be traversed with algorithms such as:
 	- [ ] [Stanford](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
 - [ ] Priority Queue
 	- [ ] [StackOverflow](http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue)
+	
+Graphs are a complicated topic. The algorithms to traverse them are not easy to implement. If you find it difficult to use the videos and texts above then sign up for a MOOC course. 2 years ago I did [Object Oriented Java Programming: Data Structures and Beyond](https://www.coursera.org/specializations/java-object-oriented). It really helped me see the big picture. The third course in the specialization (Advanced Data Structures in Java) is on Graphs.
 
 ### Advanced Java
 - [ ] Bitwise Operations
