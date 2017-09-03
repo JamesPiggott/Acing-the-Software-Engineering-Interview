@@ -184,7 +184,7 @@ Some help with challenges
 - [ ] [TopCode tips](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
 
 Challenge websites
-- [ ] [TopCode] (https://www.topcoder.com/)
+- [ ] [TopCode](https://www.topcoder.com/)
 - [ ] [Interactive Jupiter Python](https://github.com/donnemartin/interactive-coding-challenges)
   
 
@@ -200,8 +200,8 @@ Challenge websites
 The coding interviews taking by large companies usually concentrate on just one language. The interviewee can choose from a small selection: usually C, Java or Python. However, there is a much larger world involving databases and web programming. Knowing other languages becomes vital – just not for the interview. Try and choose from the list below.
 	
 - [ ] Go: Google's own multi-paradigm language.
-	- Book: The Go Programming Language (https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
-	- Video: https://www.youtube.com/watch?v=29LLRKIL_TI	
+	- Book: The Go Programming Language(https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
+	- Video(https://www.youtube.com/watch?v=29LLRKIL_TI)
 - [ ] R: A language that focuses on statisical analysis, but it has lost some important in Machine Learning in favor of Python.
 - [ ] Swift
 - [ ] Ruby
