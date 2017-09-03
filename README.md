@@ -136,12 +136,12 @@ Now you should have the basic skills toc reate applications. If you want to prep
 Advanced Networking -> moving to the hacker realm
 
 ##### Remote Method Invocation
+Arguably Remote Method Invocation straddles Network coding and application programming, but if you want a job at a large company you may need to know it.
 - [ ] [A quick practical tutorial](https://www.mkyong.com/java/java-rmi-hello-world-example/)
 - [ ] [Another small tutorial](https://www.cs.ucsb.edu/~cappello/lectures/rmi/helloworld.shtml)
 - [ ] [Part 1 of 3: Simple Java RMI Tutorial](https://www.youtube.com/watch?v=ILeAeFZOkMI)
 - [ ] [Part 2 of 3: Simple Java RMI Tutorial](https://www.youtube.com/watch?v=OjXTkgW0wDQ)
 - [ ] [Part 3 of 3: Simple Java RMI Tutorial](https://www.youtube.com/watch?v=vkw275ptI3E)
-Arguably Remote Method Invocation straddles Network coding and application programming, but if you want a job at a large company you may need to know it.
 
 ### More Java Topics
 #### Garbage collection
@@ -150,7 +150,6 @@ Arguably Remote Method Invocation straddles Network coding and application progr
 ### Mathematics
 #### Logarithms
 - [ ] [Logarithms, Explained 3 minute video](https://www.youtube.com/watch?v=zzu2POfYv0Y)
-
 
 ## Machine Learning
 ### Books
