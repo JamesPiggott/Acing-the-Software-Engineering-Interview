@@ -35,9 +35,9 @@ For the interview you will need to select one programming language. I have made 
 - [ ] [Linux, Programming and Hacking for Beginners](https://www.amazon.com/dp/B01N0CF3L5)
 	- [ ] This is a book that I wrote. It is an abolute beginners text to Linux and its the command line. There are additional chapters onthe basics of programming and hacking. The text is written in a light-hearted tone and contains a number of side articles in which I explain topics of Computer Science. I also review several movies, games and books in which CS plays an important part. For $3.99 you pick up your own copy on Amazon and thereby support me.
 ### Java
-- [ ] [Algorithms (Sedgewick and Wayne)] (https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=la_B000AQ4JCO_1_1?s=books&ie=UTF8&qid=1504424836&sr=1-1)
+- [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=la_B000AQ4JCO_1_1?s=books&ie=UTF8&qid=1504424836&sr=1-1)
 ### Python
-- [ ] [An introduction to Programming in Python (Sedgewick, Wayne and Dondero)] (https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/ref=sr_1_3?s=books&ie=UTF8&qid=1504424916&sr=1-3&keywords=an+introduction+to+programming+in+python)
+- [ ] [An introduction to Programming in Python (Sedgewick, Wayne and Dondero)](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/ref=sr_1_3?s=books&ie=UTF8&qid=1504424916&sr=1-3&keywords=an+introduction+to+programming+in+python)
 
 ## Software Engineering
 ### Basics of Java
