@@ -91,8 +91,8 @@ Graphs are an important aspect in Computer Science. Many problems can be explain
 - [ ] [Sedgewick: 9 minute introduction](https://www.youtube.com/watch?v=f_-qGQgzBLg&t=331s)
 
 Graphs can be represented as
-- [ ] Adjancency Matrix(https://www.youtube.com/watch?v=9C2cpQZVRBA)
-- [ ] Adjency List(https://www.youtube.com/watch?v=k1wraWzqtvQ)
+- [ ] Adjancency Matrix (https://www.youtube.com/watch?v=9C2cpQZVRBA)
+- [ ] Adjency List (https://www.youtube.com/watch?v=k1wraWzqtvQ)
 	
 Graphs can be traversed with algorithms such as:
 - [ ] Breadth-first search
