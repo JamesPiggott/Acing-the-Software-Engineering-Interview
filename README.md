@@ -131,7 +131,7 @@ A basic understanding of network coding is needed if you are expected to connect
 - [ ] [Java Sockets 3 of 3](https://www.youtube.com/watch?v=mJG1DManmLc)
 - [ ] [Exerise: create a chat program. Allow to clients to communicate through a server]
 
-Now you should have the basic skills toc reate applications. If you want to prepare thoroughly for the interview I suggest you also watch and read the following tutorials. Try to create small programs to improve your understanding. It is not necessary to have 2 computers but it is recommended to try
+Now you should have the basic skills to create applications. If you want to prepare thoroughly for the interview I suggest you also watch and read the following tutorials. Try to create small programs to improve your understanding. It is not necessary to have 2 computers but it is recommended to try
 
 ##### Basics of Internet, OSI model
 - [ ] [TCP/IP and the OSI Model Explained!](https://www.youtube.com/watch?v=e5DEVa9eSN0)
@@ -162,7 +162,7 @@ Arguably Remote Method Invocation straddles Network coding and application progr
 
 ### Deep Learning
 Deep Learning is quickly becoming a craze, and I think it is deservedly so. For an excellent but easy introduction read Python Deep Learning. There is a link above. For specific applications I have posted links below
-- [ ] [Cheat Sheets] (https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+- [ ] [Cheat Sheets](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
 #### Keras
 - [ ] [Deploying Keras solution](https://www.youtube.com/watch?v=f6Bf3gl4hWY)
@@ -181,11 +181,11 @@ After learning many of the topics described in the sections on Software Engineer
 If you are uncertain how well you can code when facing an unexpected challenge try a coding challenge. Seriously there are plenty of online challenge sites.
 
 Some help with challenges
-- [ ] [TopCode tips] (https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
+- [ ] [TopCode tips](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
 
 Challenge websites
 - [ ] [TopCode] (https://www.topcoder.com/)
-- [ ] [Interactive Jupiter Python] (https://github.com/donnemartin/interactive-coding-challenges)
+- [ ] [Interactive Jupiter Python](https://github.com/donnemartin/interactive-coding-challenges)
   
 
 
