@@ -98,6 +98,7 @@ Graphs can be traversed with algorithms such as:
 - [ ] Breadth-first search
 	- [ ] [MIT: 50 minutes](https://www.youtube.com/watch?v=s-CYnVz-uh4)
 - [ ] Depth-first search
+	- [ ] [MIT: 50 minutes](https://www.youtube.com/watch?v=AfSk24UTFS8)
 - [ ] Dijkstra's algorithm
 	- [ ] [Den of Geeks](http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/)
 	- [ ] [Video](https://www.youtube.com/watch?v=gdmfOwyQlcI)
