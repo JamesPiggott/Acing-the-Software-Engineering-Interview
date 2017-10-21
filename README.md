@@ -146,6 +146,13 @@ Arguably Remote Method Invocation straddles Network coding and application progr
 - [ ] [Part 2 of 3: Simple Java RMI Tutorial](https://www.youtube.com/watch?v=OjXTkgW0wDQ)
 - [ ] [Part 3 of 3: Simple Java RMI Tutorial](https://www.youtube.com/watch?v=vkw275ptI3E)
 
+#### Web servers and servlets
+To generate webpages you could use Apache, but Java also comes with its own web server - Jetty. This section continues the theme of network programming, but now through the use of http. We will start of easy with some introductory reading, followed some in-depth videos before some suggested programming assignments.
+- [ ] [Jetty wiki page](https://en.wikipedia.org/wiki/Jetty_(web_server))
+- [ ] [Web server wiki page](https://en.wikipedia.org/wiki/Web_server)
+- [ ] [Java servlet wiki page](https://en.wikipedia.org/wiki/Java_servlet)
+- [ ] [YouTube: What is Jetty?](https://www.youtube.com/watch?v=lvZfEXqIAyE&t=496s)
+
 ### More Java Topics
 #### Garbage collection
 - [ ] [Garbage collection in Java](https://www.youtube.com/watch?v=UnaNQgzw4zY)
