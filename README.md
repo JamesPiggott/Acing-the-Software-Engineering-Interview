@@ -219,4 +219,12 @@ The coding interviews taking by large companies usually concentrate on just one 
 
 ### Learning Linux
 
+### End of Year 2017 goals
+Here is small list of personal goals that I will try to accomplish before the end of year, roughly 2 months from now.
+- [ ] [Write a summary for all sorting algorithms]
+- [ ] [Write a summary for all data structures]
+- [ ] [Implement all relevant Network code]
+- [ ] [Implement Hadoop example + write a small tutorial]
+- [ ] [Implement DeepLearning4J example + write a small tutorial]
+
 
