@@ -226,5 +226,8 @@ Here is small list of personal goals that I will try to accomplish before the en
 - [ ] [Implement all relevant Network code]
 - [ ] [Implement Hadoop example + write a small tutorial]
 - [ ] [Implement DeepLearning4J example + write a small tutorial]
+- [ ] [MySQL]
+- [ ] [Inter process communication]
+- [ ] [Semaphores and shared memory]
 
 
