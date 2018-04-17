@@ -172,14 +172,18 @@ Deep Learning is quickly becoming a craze, and I think it is deservedly so. For 
 - [ ] [Cheat Sheets](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
 #### Keras
+The easiest way to quickly learn how to program Deep Learning solutions is through Keras. Developed by Francois Chollet at Google it is layer on top of Theano or TensorFlow - the two main frameworks used. Below are a set of easy to follow tutorials that culminate in a solution designed to be scalable and which can be accessed through an REST Api.
 - [ ] [Deploying Keras solution](https://www.youtube.com/watch?v=f6Bf3gl4hWY)
+- [ ] [A Simple CNN tutorial](https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python)
+- [ ] [A Simple RNN tutorial](https://www.kaggle.com/amarpreetsingh/stock-prediction-lstm-using-keras)
+- [ ] [REST API with Flask and cURL](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
+- [ ] [Advanced REST API (scalable, message queuing)](https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/)
 
+There are also a number of books on Keras. Note that Keras is still very new - yet it is quickly being adopted.
+- [ ] [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?ie=UTF8&qid=1523989891&sr=8-1&keywords=francois+chollet)
+	- Written by Francois Chollet himself. The book is practically new (October 2017), but is already considered the bible to Keras. It is also easy to work with
 
-#### TensorFlow
-
-#### Theano
-
-All three topics above are about using Deep Learning with Python. It shows you why Python is so important.
+All topics above are about using Deep Learning with Python. It shows you why Python is so important.
 
 ## Practicing for the Interview
 After learning many of the topics described in the sections on Software Engineering and Machine Learning you should have a well rounded knowledge base. To get actually get a job at the company of your choice you will need to ace the interview. This section will concentrate on all that is necessary to accomplish just that. If you want to continue learning take a look at the section below entitled Other Topics.
