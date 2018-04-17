@@ -185,6 +185,8 @@ There are also a number of books on Keras. Note that Keras is still very new - y
 
 All topics above are about using Deep Learning with Python. It shows you why Python is so important.
 
+#### Vectorization
+
 ## Practicing for the Interview
 After learning many of the topics described in the sections on Software Engineering and Machine Learning you should have a well rounded knowledge base. To get actually get a job at the company of your choice you will need to ace the interview. This section will concentrate on all that is necessary to accomplish just that. If you want to continue learning take a look at the section below entitled Other Topics.
 
