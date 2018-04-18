@@ -171,6 +171,9 @@ To generate webpages you could use Apache, but Java also comes with its own web 
 Deep Learning is quickly becoming a craze, and I think it is deservedly so. For an excellent but easy introduction read Python Deep Learning. There is a link above. For specific applications I have posted links below
 - [ ] [Cheat Sheets](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
+At this moment there are a number of ways to implement Deep Learning on datasets: Theano, Tensorflow and Keras to name a few. Below is an introductory video.
+- [ ] [Deep Learning Frameworks Compared](https://www.youtube.com/watch?v=MDP9FfsNx60)
+
 #### Keras
 The easiest way to quickly learn how to program Deep Learning solutions is through Keras. Developed by Francois Chollet at Google it is layer on top of Theano or TensorFlow - the two main frameworks used. Below are a set of easy to follow tutorials that culminate in a solution designed to be scalable and which can be accessed through an REST Api.
 - [ ] [Deploying Keras solution](https://www.youtube.com/watch?v=f6Bf3gl4hWY)
@@ -199,8 +202,6 @@ Some help with challenges
 Challenge websites
 - [ ] [TopCode](https://www.topcoder.com/)
 - [ ] [Interactive Jupiter Python](https://github.com/donnemartin/interactive-coding-challenges)
-  
-
 
 ## Other topics
 ### More Books
@@ -226,14 +227,16 @@ The coding interviews taking by large companies usually concentrate on just one 
 ### Learning Linux
 
 ### End of Year 2017 goals
-Here is small list of personal goals that I will try to accomplish before the end of year, roughly 2 months from now.
+Here is small list of personal goals that I will try to accomplish in May 2018.
 - [ ] [Write a summary for all sorting algorithms]
-- [ ] [Write a summary for all data structures]
-- [ ] [Implement all relevant Network code]
-- [ ] [Implement Hadoop example + write a small tutorial]
-- [ ] [Implement DeepLearning4J example + write a small tutorial]
-- [ ] [MySQL]
-- [ ] [Inter process communication]
-- [ ] [Semaphores and shared memory]
+- [ ] [Vectorization]
+- [ ] [Docker and Kubernetes]
+- [ ] [Google Cloud Platform]
+- [ ] [Message Queueing]
 
+Further down the line
+- [ ] [Process and Network Schedulers]
+- [ ] [Design Patterns]
+- [ ] [Git and GitHub]
+- [ ] []
 
