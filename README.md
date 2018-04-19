@@ -43,8 +43,8 @@ For the interview you will need to select one programming language. I have made 
 ### Basics of Java
 
 ### Algorithmic complexity / Big-O / Asymptotic analysis
-- [ ] [Cheat sheet] (http://bigocheatsheet.com/)
-- [ ] [Introduction Video]	(https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [ ] [Cheat sheet](http://bigocheatsheet.com/)
+- [ ] [Introduction Video](https://www.youtube.com/watch?v=V6mKVRU1evU)
 
 ### Data Structures
 For the study of data structures and algorithms a three-pronged approach is used. First, a short descriptive video is linked (usually YouTube). Second, a simple implementation is referenced which the reader can examine. Third and finally a short descriptive text is linked in which the topic is discussed.
@@ -91,8 +91,8 @@ Graphs are an important aspect in Computer Science. Many problems can be explain
 - [ ] [Sedgewick: 9 minute introduction](https://www.youtube.com/watch?v=f_-qGQgzBLg&t=331s)
 
 Graphs can be represented as
-- [ ] Adjancency Matrix (https://www.youtube.com/watch?v=9C2cpQZVRBA)
-- [ ] Adjency List (https://www.youtube.com/watch?v=k1wraWzqtvQ)
+- [ ] [Adjancency Matrix](https://www.youtube.com/watch?v=9C2cpQZVRBA)
+- [ ] [Adjency List](https://www.youtube.com/watch?v=k1wraWzqtvQ)
 	
 Graphs can be traversed with algorithms such as:
 - [ ] Breadth-first search
@@ -232,9 +232,10 @@ Here is small list of personal goals that I will try to accomplish in May 2018.
 - [ ] [Vectorization]
 - [ ] [Docker and Kubernetes]
 - [ ] [Google Cloud Platform]
-- [ ] [Message Queueing]
+- [ ] [Practice whiteboard coding]
 
 Further down the line
+- [ ] [Message Queueing]
 - [ ] [Process and Network Schedulers]
 - [ ] [Design Patterns]
 - [ ] [Git and GitHub]
