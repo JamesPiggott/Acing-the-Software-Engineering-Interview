@@ -226,7 +226,7 @@ The coding interviews taking by large companies usually concentrate on just one 
 
 ### Learning Linux
 
-### End of Year 2017 goals
+### Near time goals
 Here is small list of personal goals that I will try to accomplish in May 2018.
 - [ ] [Write a summary for all sorting algorithms]
 - [ ] [Vectorization]
@@ -239,5 +239,5 @@ Further down the line
 - [ ] [Process and Network Schedulers]
 - [ ] [Design Patterns]
 - [ ] [Git and GitHub]
-- [ ] []
+
 
