@@ -228,13 +228,14 @@ The coding interviews taking by large companies usually concentrate on just one 
 
 ### Near time goals
 Here is small list of personal goals that I will try to accomplish in May 2018.
-- [ ] [Write a summary for all sorting algorithms]
 - [ ] [Vectorization]
+- [ ] [Tkinter]
 - [ ] [Docker and Kubernetes]
 - [ ] [Google Cloud Platform]
 - [ ] [Practice whiteboard coding]
 
 Further down the line
+- [ ] [Write a summary for all sorting algorithms]
 - [ ] [Message Queueing]
 - [ ] [Process and Network Schedulers]
 - [ ] [Design Patterns]
