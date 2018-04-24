@@ -189,6 +189,9 @@ There are also a number of books on Keras. Note that Keras is still very new - y
 All topics above are about using Deep Learning with Python. It shows you why Python is so important.
 
 #### Vectorization
+With Vectorization we can greatly increase the number of operations per instruction - that is, reduce the number of loop iterations because we do more per loop. With Machine Learning using Linear Algebra this has become vital to optimize resources.
+- [ ] [What is Vectorization? StackOverflow](https://stackoverflow.com/questions/1422149/what-is-vectorization)
+- [ ] [What is Vectorization? Andrew Ng](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/NYnog/vectorization)
 
 ## Practicing for the Interview
 After learning many of the topics described in the sections on Software Engineering and Machine Learning you should have a well rounded knowledge base. To get actually get a job at the company of your choice you will need to ace the interview. This section will concentrate on all that is necessary to accomplish just that. If you want to continue learning take a look at the section below entitled Other Topics.
