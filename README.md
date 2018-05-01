@@ -3,7 +3,9 @@
 For a while now I am having second thoughts on pursuing a career in the software industry. I did not roll into it naturally with a degree in CS. I initially pursued a degree in Business before I made the switch. I discovered the wonderful world of Machine Learning drifted towards becoming a Data Scientist / Software Engineer. Yet, since leaving college I have done little with either. I have a high paying job at a defense contractor, but due to the nature of working on an established application my abilities are hardly utilized. I am a software developer not an engineer - it’s time to do something about that!
 For some time, I have wanted become a fully developed Data Scientist and Software Engineer. Recently I came across John Washam’s blog and GitHub page on how to 'ace the interview' at a big tech company and decided I want do the same. However, John readily admits he made a few mistakes. I intend to learn from them, and I hope you will too.
 This list of items will prepare you for becoming a Software Engineer and a Data Scientist. And just like John Washam’s 'aim high' attitude, that includes Google, Apple, Amazon and Microsoft.
+
 So essentially this list is structured into 2 knowledge parts: must know knowledge for being a Software Engineer and an introduction to Machine Learning.
+
 The list includes references to texts, web pages, YouTube videos, MOOCs and Books. I intend to go easy on reading books and just give you the essential list. Reading takes up a lot of time and I fear knowledge is not retained. The scope of this list is also paired down as much as possible. However, I should you practice coding for as much as possible.
 
 ## Short description of Goals
