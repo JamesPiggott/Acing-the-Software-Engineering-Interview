@@ -29,7 +29,7 @@ Here are some quick tutorials and tips to prepare for the interview process. I t
 
 ## Pick a language
 For the interview you will need to select one programming language. I have made the choice for you as I use Java. However, you will need to know more. You will also need to know a scripting language. The obvious choice is Python, which is also popular with Machine Learning.
-As such there are coding example in both Java and Python(https://github.com/JamesPiggott/PythonSoftwareEngineeringInterview)
+As such there are coding example in both Java and [Python](https://github.com/JamesPiggott/PythonSoftwareEngineeringInterview)
 
 ## Book List
 ### Introductory
