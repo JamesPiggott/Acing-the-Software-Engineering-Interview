@@ -219,7 +219,7 @@ Challenge websites
 	- This books by Georgia Weidman has been a favorite of mine since 2014. It is both both broad and in-depth and covers most topics regarding computer hacking.
 
 ### More Programming languages
-The coding interviews taking by large companies usually concentrate on just one language. The interviewee can choose from a small selection: usually C, Java or Python. However, there is a much larger world involving databases and web programming. Knowing other languages becomes vital – just not for the interview. Try and choose from the list below.
+The coding interviews taking by tech companies usually concentrate on just one language. The interviewee can choose from a small selection: usually C, Java or Python. However, there is a much larger world involving databases and web programming. Knowing other languages becomes vital – just not for the interview. As an option choose one of the languages to round out your skills. I choose the Go programming language. 
 	
 - [ ] Go: Google's own multi-paradigm language.
 	- [Book: The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
@@ -242,11 +242,24 @@ Here is small list of personal goals that I will try to accomplish in May 2018.
 - [ ] [Google Cloud Platform]
 - [ ] [Practice whiteboard coding]
 
-Further down the line
+June
+- [ ] [Finish first draft of my Machine Learning book]
+	- Yes. I am also writing a new book. This would be my fourth, but only my second CS book. It will be short, covering just the basics of Machine and Deep Learning.
 - [ ] [Write a summary for all sorting algorithms]
-- [ ] [Message Queueing]
-- [ ] [Process and Network Schedulers]
 - [ ] [Design Patterns]
 - [ ] [Git and GitHub]
+- [ ] [Go in search of tech company recruiters ]
 
+July
+- [ ] [Message Queueing]
+- [ ] [Process and Network Schedulers]
+- [ ] [Web programming]
+- [ ] [Softskills and psychology]
+- [ ] [Showcasing my code ]
 
+August
+- [ ] [Linux & hotkeys]
+- [ ] [Compilers ]
+- [ ] [Object Oriented Programming]
+- [ ] [MySQL and other types of databases]
+- [ ] [Awk & Sed]
