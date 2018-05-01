@@ -40,8 +40,8 @@ As such there are coding example in both Java and [Python](https://github.com/Ja
 ### Python
 - [ ] [An introduction to Programming in Python (Sedgewick, Wayne and Dondero)](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/ref=sr_1_3?s=books&ie=UTF8&qid=1504424916&sr=1-3&keywords=an+introduction+to+programming+in+python)
 
-## Software Engineering
-### Basics of Java
+## Part 1. Software Engineering
+This part covers the basic of what a software engineer should know, by heart.
 
 ### Algorithmic complexity / Big-O / Asymptotic analysis
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
@@ -111,6 +111,9 @@ Graphs can be traversed with algorithms such as:
 	
 Graphs are a complicated topic. The algorithms to traverse them are not easy to implement. If you find it difficult to use the videos and texts above then sign up for a MOOC course. 2 years ago I did [Object Oriented Java Programming: Data Structures and Beyond](https://www.coursera.org/specializations/java-object-oriented). It really helped me see the big picture. The third course in the specialization (Advanced Data Structures in Java) is on Graphs.
 
+## Part 2. Advanced topics with Java
+In this part I cover the advanced topics. I used Java because it is the language I am most comfortable with, but try and code in Python if you can.
+
 ### Advanced Java
 - [ ] Bitwise Operations
 	- [ ] A question on how to swap two variables without using a third is bound to come up in an job interview. The small video below gives an implementation. Try to expand it with a speed test!
@@ -125,7 +128,7 @@ Graphs are a complicated topic. The algorithms to traverse them are not easy to 
 - [ ] Endianness
 	- [ ] [Micheal gives a small introduction](https://www.youtube.com/watch?v=JrNF0KRAlyo)
 
-#### Network coding
+### Network coding
 A basic understanding of network coding is needed if you are expected to connect appliations. Luckily Java is very powerfull and makes network coding easy!
 - [ ] [Java Sockets 1 of 3](https://www.youtube.com/watch?v=6G_W54zuadg&t=6s)
 - [ ] [Java Sockets 2 of 3](https://www.youtube.com/watch?v=Uo5DY546rKY)
@@ -134,12 +137,10 @@ A basic understanding of network coding is needed if you are expected to connect
 
 Now you should have the basic skills to create applications. If you want to prepare thoroughly for the interview I suggest you also watch and read the following tutorials. Try to create small programs to improve your understanding. It is not necessary to have 2 computers but it is recommended to try
 
-##### Basics of Internet, OSI model
+#### Basics of Internet, OSI model
 - [ ] [TCP/IP and the OSI Model Explained!](https://www.youtube.com/watch?v=e5DEVa9eSN0)
 
-Advanced Networking -> moving to the hacker realm
-
-##### Remote Method Invocation
+#### Remote Method Invocation
 Arguably Remote Method Invocation straddles Network coding and application programming, but if you want a job at a large company you may need to know it.
 - [ ] [A quick practical tutorial](https://www.mkyong.com/java/java-rmi-hello-world-example/)
 - [ ] [Another small tutorial](https://www.cs.ucsb.edu/~cappello/lectures/rmi/helloworld.shtml)
@@ -154,15 +155,21 @@ To generate webpages you could use Apache, but Java also comes with its own web 
 - [ ] [Java servlet wiki page](https://en.wikipedia.org/wiki/Java_servlet)
 - [ ] [YouTube: What is Jetty?](https://www.youtube.com/watch?v=lvZfEXqIAyE&t=496s)
 
-### More Java Topics
 #### Garbage collection
 - [ ] [Garbage collection in Java](https://www.youtube.com/watch?v=UnaNQgzw4zY)
 
-### Mathematics
-#### Logarithms
-- [ ] [Logarithms, Explained 3 minute video](https://www.youtube.com/watch?v=zzu2POfYv0Y)
+## Part 3. Machine Learning
+This part covers the most interesting parts, the very reason I continue to study computer science. Note that a lot of the material is new and not well established. That is what makes it so exciting.
 
-## Machine Learning
+### Deeplearning.ai
+Currently I am doing this specialization on coursera given by renowned AI specialist Andrew Ng. It is a successor to his earlier course offered by the University of Stanford which I did in 2014.
+This new specialization is highly recommended. It will give you skills you can immediately apply, though not the experience.
+- [ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [ ] [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network)
+- [ ] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+- [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+- [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+
 ### Books
 - [ ] [Machine Learning: An Algorithmic Perspective](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=WMZP7275AW67BMKFSPX2)
 - [ ] [Python Deep Learning](https://www.amazon.com/Python-Deep-Learning-Valentino-Zocca/dp/1786464454/ref=sr_1_1?s=books&ie=UTF8&qid=1497788093&sr=1-1&keywords=python+deep+learning)
@@ -189,18 +196,21 @@ There are also a number of books on Keras. Note that Keras is still very new - y
 
 All topics above are about using Deep Learning with Python. It shows you why Python is so important.
 
-#### Vectorization
+### Vectorization
 With Vectorization we can greatly increase the number of operations per instruction - that is, reduce the number of loop iterations because we do more per loop. With Machine Learning using Linear Algebra this has become vital to optimize resources.
 - [ ] [What is Vectorization? StackOverflow](https://stackoverflow.com/questions/1422149/what-is-vectorization)
 - [ ] [What is Vectorization? Andrew Ng](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/NYnog/vectorization)
 - [ ] [Vectorization 101](https://www.youtube.com/watch?v=Aez5DvI0bwU)
 
-##### Numpy
 Lets get dirty with vectorization and use the Python Numpy library
 - [ ] [Loosing your loops! Jake VanderPlas](https://www.youtube.com/watch?v=EEUXKG97YRw)
 
-## Practicing for the Interview
-After learning many of the topics described in the sections on Software Engineering and Machine Learning you should have a well rounded knowledge base. To get actually get a job at the company of your choice you will need to ace the interview. This section will concentrate on all that is necessary to accomplish just that. If you want to continue learning take a look at the section below entitled Other Topics.
+### Mathematics
+#### Logarithms
+- [ ] [Logarithms, Explained 3 minute video](https://www.youtube.com/watch?v=zzu2POfYv0Y)
+
+## Part 4. Practicing for the Interview
+After learning many of the topics described in the sections on Software Engineering and Machine Learning you should have a well rounded knowledge base. To actually get a job at the company of your choice you will need to ace the interview. This section will concentrate on all that is necessary to accomplish just that. If you want to continue learning take a look at the section below entitled Other Topics.
 
 ### Coding Exercises
 If you are uncertain how well you can code when facing an unexpected challenge try a coding challenge. Seriously there are plenty of online challenge sites.
@@ -212,7 +222,7 @@ Challenge websites
 - [ ] [TopCode](https://www.topcoder.com/)
 - [ ] [Interactive Jupiter Python](https://github.com/donnemartin/interactive-coding-challenges)
 
-## Other topics
+## Part 5. Other topics
 ### More Books
 - [ ] [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=la_B001JP4N76_1_3?s=books&ie=UTF8&qid=1497793864&sr=1-3&refinements=p_82%3AB001JP4N76)
 	- An essential must read for it chapters on Crytpology, Network attacks and Stack Overflows. The book is not an tome, but beginners might have some difficulty.
@@ -221,7 +231,6 @@ Challenge websites
 
 ### More Programming languages
 The coding interviews taking by tech companies usually concentrate on just one language. The interviewee can choose from a small selection: usually C, Java or Python. However, there is a much larger world involving databases and web programming. Knowing other languages becomes vital – just not for the interview. As an option choose one of the languages to round out your skills. I choose the Go programming language. 
-	
 - [ ] Go: Google's own multi-paradigm language.
 	- [Book: The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
 	- [Video](https://www.youtube.com/watch?v=29LLRKIL_TI)
@@ -230,12 +239,24 @@ The coding interviews taking by tech companies usually concentrate on just one l
 - [ ] Ruby
 - [ ] Julia: A new scientific general purpose language.
 - [ ] JavaScript
+
+### Cloud computing and containers
+Currently I am pursuing the Coursera specialization Developing Applications with Google Cloud Platform.
+Being able to deploy your application and machine learning models quickly is a definite must.
 	
 ### Web Programming
+I will more on REST API here
 
 ### Learning Linux
+I already covered a lot of this in my book - [Linux, Programming and Hacking for Beginners](https://www.amazon.com/dp/B01N0CF3L5) - but it is something you will need to concentrate on.
 
-### Near time goals
+### Loose ends
+Here is a list of skills I am working on to better represent myself. This list focuses on soft skills, neat office skills and some psychology.
+- [ ] [EdClub](https://www.typingclub.com/sportal/)
+	- It may suprise you I never learned blind typing. I mostly type with my index and middle fingers. The typing speed is not bad but people have remarked on it.
+- [ ] [Hot keys]	
+
+## Near time goals
 Here is small list of personal goals that I will try to accomplish in May 2018.
 - [ ] [Vectorization]
 - [ ] [Tkinter]
