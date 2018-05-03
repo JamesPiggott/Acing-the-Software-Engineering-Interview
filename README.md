@@ -160,6 +160,9 @@ To generate webpages you could use Apache, but Java also comes with its own web 
 #### Garbage collection
 - [ ] [Garbage collection in Java](https://www.youtube.com/watch?v=UnaNQgzw4zY)
 
+#### Papers
+Below is a list of papers (scientific and otherwise). They are not mandatory to read but they do discus the latest developments in IT. I find them inspiring to read.
+
 ## Part 3. Machine Learning
 This part covers the most interesting parts, the very reason I continue to study computer science. Note that a lot of the material is new and not well established. That is what makes it so exciting.
 
