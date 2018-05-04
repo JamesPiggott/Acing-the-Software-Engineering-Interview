@@ -134,6 +134,8 @@ In this part I cover the advanced topics. I used Java because it is the language
 - [ ] Multi-Threading
 - [ ] String searching
 - [ ] Tries
+	- [ ] [HackerRank Introductory video](https://www.youtube.com/watch?v=zIjfhVPRZCg)
+	- [ ] [HackerRank advanced example](https://www.youtube.com/watch?v=vlYZb68kAY0)
 - [ ] Unicode
 - [ ] Endianness
 	- [ ] [Micheal gives a small introduction](https://www.youtube.com/watch?v=JrNF0KRAlyo)
@@ -275,7 +277,7 @@ Here is a list of skills I am working on to better represent myself. This list f
 ## Near time goals
 Here is small list of personal goals that I will try to accomplish in May 2018.
 - [ ] [Vectorization]
-- [ ] [Tkinter]
+- [ ] [Write a summary for all sorting algorithms]
 - [ ] [Docker and Kubernetes]
 - [ ] [Google Cloud Platform]
 - [ ] [Practice whiteboard coding]
@@ -283,9 +285,8 @@ Here is small list of personal goals that I will try to accomplish in May 2018.
 June
 - [ ] [Finish first draft of my Machine Learning book]
 	- Yes. I am also writing a new book. This would be my fourth, but only my second CS book. It will be short, covering just the basics of Machine and Deep Learning.
-- [ ] [Write a summary for all sorting algorithms]
 - [ ] [Design Patterns]
-- [ ] [Git and GitHub]
+- [ ] [Graphs]
 - [ ] [Go in search of tech company recruiters ]
 
 July
