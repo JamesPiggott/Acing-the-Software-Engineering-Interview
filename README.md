@@ -45,6 +45,10 @@ As such there are coding example in both Java and [Python](https://github.com/Ja
 ## Part 1. Software Engineering
 This part covers the basic of what a software engineer should know, by heart.
 
+### Google tips
+The people at Google have supplied a handy list of topics you need to master should you want to apply.
+- [ ] [Google tips](https://careers.google.com/how-we-hire/interview/#interviews-for-software-engineering-and-technical-roles)
+
 ### Algorithmic complexity / Big-O / Asymptotic analysis
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 - [ ] [Introduction Video](https://www.youtube.com/watch?v=V6mKVRU1evU)
@@ -58,6 +62,8 @@ For the study of data structures and algorithms a three-pronged approach is used
 	- [ ] [Video comparison of ArrayList and LinkedList](https://www.youtube.com/watch?v=WmvpGvQcVYs)
 - [ ] Stack
 - [ ] Queue
+- [ ] Priority Queue
+	- [ ] [StackOverflow](http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue)
 - [ ] Hash table
 	- [ ] [Introduction Video](https://www.youtube.com/watch?v=MfhjkfocRR0)
 	- [ ] [CS50 tutorial with Lauren](https://www.youtube.com/watch?v=h2d9b_nEzoA)
@@ -108,10 +114,12 @@ Graphs can be traversed with algorithms such as:
 - [ ] A* algorithm
 	- [ ] [Redblobgames](http://www.redblobgames.com/pathfinding/a-star/introduction.html)
 	- [ ] [Stanford](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
-- [ ] Priority Queue
-	- [ ] [StackOverflow](http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue)
 	
 Graphs are a complicated topic. The algorithms to traverse them are not easy to implement. If you find it difficult to use the videos and texts above then sign up for a MOOC course. 2 years ago I did [Object Oriented Java Programming: Data Structures and Beyond](https://www.coursera.org/specializations/java-object-oriented). It really helped me see the big picture. The third course in the specialization (Advanced Data Structures in Java) is on Graphs.
+
+### Mathematics
+#### Logarithms
+- [ ] [Logarithms, Explained 3 minute video](https://www.youtube.com/watch?v=zzu2POfYv0Y)
 
 ## Part 2. Advanced topics with Java
 In this part I cover the advanced topics. I used Java because it is the language I am most comfortable with, but try and code in Python if you can.
@@ -160,11 +168,18 @@ To generate webpages you could use Apache, but Java also comes with its own web 
 #### Garbage collection
 - [ ] [Garbage collection in Java](https://www.youtube.com/watch?v=UnaNQgzw4zY)
 
+#### Lambda functions
+More to follow
+
 #### Papers
 Below is a list of papers (scientific and otherwise). They are not mandatory to read but they do discus the latest developments in IT. I find them inspiring to read.
 
 ## Part 3. Machine Learning
 This part covers the most interesting parts, the very reason I continue to study computer science. Note that a lot of the material is new and not well established. That is what makes it so exciting.
+
+### Google Machine Learning Crash course
+Again the people at Google are the best organized and have come up with a small online course that cover most of the relevant topics
+- [ ] [ML crash course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 ### Deeplearning.ai
 Currently I am doing this specialization on coursera given by renowned AI specialist Andrew Ng. It is a successor to his earlier course offered by the University of Stanford which I did in 2014.
@@ -209,10 +224,6 @@ With Vectorization we can greatly increase the number of operations per instruct
 
 Lets get dirty with vectorization and use the Python Numpy library
 - [ ] [Loosing your loops! Jake VanderPlas](https://www.youtube.com/watch?v=EEUXKG97YRw)
-
-### Mathematics
-#### Logarithms
-- [ ] [Logarithms, Explained 3 minute video](https://www.youtube.com/watch?v=zzu2POfYv0Y)
 
 ## Part 4. Practicing for the Interview
 After learning many of the topics described in the sections on Software Engineering and Machine Learning you should have a well rounded knowledge base. To actually get a job at the company of your choice you will need to ace the interview. This section will concentrate on all that is necessary to accomplish just that. If you want to continue learning take a look at the section below entitled Other Topics.
