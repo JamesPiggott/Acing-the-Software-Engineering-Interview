@@ -167,13 +167,19 @@ To generate webpages you could use Apache, but Java also comes with its own web 
 - [ ] [Java servlet wiki page](https://en.wikipedia.org/wiki/Java_servlet)
 - [ ] [YouTube: What is Jetty?](https://www.youtube.com/watch?v=lvZfEXqIAyE&t=496s)
 
-#### Garbage collection
+### Garbage collection
 - [ ] [Garbage collection in Java](https://www.youtube.com/watch?v=UnaNQgzw4zY)
 
-#### Lambda functions
+### Lambda functions
 More to follow
 
-#### Papers
+### Compilers
+More to follow
+
+### Operating Systems
+More to follow
+
+### Papers
 Below is a list of papers (scientific and otherwise). They are not mandatory to read but they do discus the latest developments in IT. I find them inspiring to read.
 
 ## Part 3. Machine Learning
