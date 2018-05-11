@@ -179,6 +179,9 @@ More to follow
 ### Operating Systems
 More to follow
 
+### Programming Languages
+More to follow
+
 ### Papers
 Below is a list of papers (scientific and otherwise). They are not mandatory to read but they do discus the latest developments in IT. I find them inspiring to read.
 
@@ -243,6 +246,7 @@ Some help with challenges
 - [ ] [TopCode tips](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
 
 Challenge websites
+- [ ] [CoderByte](https://coderbyte.com/)
 - [ ] [TopCode](https://www.topcoder.com/)
 - [ ] [Interactive Jupiter Python](https://github.com/donnemartin/interactive-coding-challenges)
 
@@ -269,7 +273,7 @@ Currently I am pursuing the Coursera specialization Developing Applications with
 Being able to deploy your application and machine learning models quickly is a definite must.
 	
 ### Web Programming
-I will more on REST API here
+More on REST APIs here
 
 ### Learning Linux
 I already covered a lot of this in my book - [Linux, Programming and Hacking for Beginners](https://www.amazon.com/dp/B01N0CF3L5) - but it is something you will need to concentrate on.
@@ -291,20 +295,28 @@ Here is small list of personal goals that I will try to accomplish in May 2018.
 June
 - [ ] [Finish first draft of my Machine Learning book]
 	- Yes. I am also writing a new book. This would be my fourth, but only my second CS book. It will be short, covering just the basics of Machine and Deep Learning.
-- [ ] [Design Patterns]
+- [ ] [Compilers]
+- [ ] [Operating Systems]
 - [ ] [Graphs]
-- [ ] [Go in search of tech company recruiters ]
+- [ ] [Go in search of tech company recruiters]
 
 July
-- [ ] [Message Queueing]
-- [ ] [Process and Network Schedulers]
-- [ ] [Web programming]
+- [ ] [Programming Languages]
+- [ ] [Recursion]
+- [ ] [MySQL and other types of databases]
 - [ ] [Softskills and psychology]
-- [ ] [Showcasing my code ]
+- [ ] [Showcasing my code]
 
 August
 - [ ] [Linux & hotkeys]
-- [ ] [Compilers ]
 - [ ] [Object Oriented Programming]
-- [ ] [MySQL and other types of databases]
 - [ ] [Awk & Sed]
+- [ ] [Practice the interview]
+- [ ] [Publish Machine Learning book]
+
+September
+- [ ] [Vi(m) & Emacs]
+- [ ] [Lambda Functions]
+- [ ] [Design Patterns]
+- [ ] []
+- [ ] []
