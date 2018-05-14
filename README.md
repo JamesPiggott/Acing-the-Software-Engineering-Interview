@@ -318,5 +318,3 @@ September
 - [ ] [Vi(m) & Emacs]
 - [ ] [Lambda Functions]
 - [ ] [Design Patterns]
-- [ ] []
-- [ ] []
