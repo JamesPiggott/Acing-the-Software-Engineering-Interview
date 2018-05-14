@@ -295,15 +295,15 @@ Here is small list of personal goals that I will try to accomplish in May 2018.
 June
 - [ ] [Finish first draft of my Machine Learning book]
 	- Yes. I am also writing a new book. This would be my fourth, but only my second CS book. It will be short, covering just the basics of Machine and Deep Learning.
-- [ ] [Compilers]
-- [ ] [Operating Systems]
 - [ ] [Graphs]
+- [ ] [Compilers]
+- [ ] [MySQL and other types of databases]
 - [ ] [Go in search of tech company recruiters]
 
 July
 - [ ] [Programming Languages]
 - [ ] [Recursion]
-- [ ] [MySQL and other types of databases]
+- [ ] [Operating Systems]
 - [ ] [Softskills and psychology]
 - [ ] [Showcasing my code]
 
