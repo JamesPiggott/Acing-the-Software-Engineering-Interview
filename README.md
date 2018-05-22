@@ -236,6 +236,10 @@ With Vectorization we can greatly increase the number of operations per instruct
 Lets get dirty with vectorization and use the Python Numpy library
 - [ ] [Loosing your loops! Jake VanderPlas](https://www.youtube.com/watch?v=EEUXKG97YRw)
 
+### Numpy
+Numpy is an important library that any Data Scientist should be familiar with, use it to vectorize, lambdadize and otherwise perform operations on data.
+- [ ] [Introduction: Arrays in Python / Numpy](https://www.youtube.com/watch?v=mOZ0UCeuRX4)
+
 ## Part 4. Practicing for the Interview
 After learning many of the topics described in the sections on Software Engineering and Machine Learning you should have a well rounded knowledge base. To actually get a job at the company of your choice you will need to ace the interview. This section will concentrate on all that is necessary to accomplish just that. If you want to continue learning take a look at the section below entitled Other Topics.
 
