@@ -289,12 +289,7 @@ Here is a list of skills I am working on to better represent myself. This list f
 - [ ] [Hot keys]	
 
 ## Near time goals
-Here is small list of personal goals that I will try to accomplish in May 2018.
-- [ ] [Vectorization]
-- [ ] [Write a summary for all sorting algorithms]
-- [ ] [Docker and Kubernetes]
-- [ ] [Google Cloud Platform]
-- [ ] [Practice whiteboard coding]
+Here is small list of personal goals that I will try to accomplish in 2018.
 
 June
 - [ ] [Finish first draft of my Machine Learning book]
@@ -302,23 +297,21 @@ June
 - [ ] [Graphs]
 - [ ] [Compilers]
 - [ ] [MySQL and other types of databases]
-- [ ] [Go in search of tech company recruiters]
 
 July
 - [ ] [Programming Languages]
 - [ ] [Recursion]
 - [ ] [Operating Systems]
 - [ ] [Softskills and psychology]
-- [ ] [Showcasing my code]
 
 August
 - [ ] [Linux & hotkeys]
 - [ ] [Object Oriented Programming]
 - [ ] [Awk & Sed]
 - [ ] [Practice the interview]
-- [ ] [Publish Machine Learning book]
 
 September
 - [ ] [Vi(m) & Emacs]
 - [ ] [Lambda Functions]
 - [ ] [Design Patterns]
+- [ ] [Multi-Threading]
