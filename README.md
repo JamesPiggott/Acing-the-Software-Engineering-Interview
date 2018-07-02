@@ -180,7 +180,9 @@ More to follow
 More to follow
 
 ### Programming Languages
-More to follow
+ - [ ] [YouTube: basic categories of programming languages](https://www.youtube.com/watch?v=_zusEe3GOe8)
+ - [ ] [YouTube: advanced distinctive features of programming languages](https://www.youtube.com/watch?v=GI_V3yzVDtA)
+ - [ ] [YouTube: the first programming languages - a bit of history](https://www.youtube.com/watch?v=RU1u-js7db8)
 
 ### Papers
 Below is a list of papers (scientific and otherwise). They are not mandatory to read but they do discus the latest developments in IT. I find them inspiring to read.
