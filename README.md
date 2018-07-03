@@ -293,27 +293,38 @@ Here is a list of skills I am working on to better represent myself. This list f
 ## Near time goals
 Here is small list of personal goals that I will try to accomplish in 2018.
 
-June
-- [ ] [Finish first draft of my Machine Learning book]
-	- Yes. I am also writing a new book. This would be my fourth, but only my second CS book. It will be short, covering just the basics of Machine and Deep Learning.
-- [ ] [Graphs]
-- [ ] [Compilers]
-- [ ] [MySQL and other types of databases]
-
 July
-- [ ] [Programming Languages]
-- [ ] [Recursion]
-- [ ] [Operating Systems]
-- [ ] [Softskills and psychology]
+- [ ] [Programming Languages] 
+- [ ] [Docker and Kubernetes] 
+- [ ] [PlanKalkul paper] 
+- [ ] [Chapters Recurrent and Convolutional Neural Networks]
 
 August
-- [ ] [Linux & hotkeys]
-- [ ] [Object Oriented Programming]
-- [ ] [Awk & Sed]
-- [ ] [Practice the interview]
+- [ ] [Operating Systems] 
+- [ ] [MySQL and other types of databases] 
+- [ ] [Chapter Autoencoders]
+- [ ] [Keras application]
 
 September
-- [ ] [Vi(m) & Emacs]
-- [ ] [Lambda Functions]
-- [ ] [Design Patterns]
-- [ ] [Multi-Threading]
+- [ ] [Vi(m) & Emacs] 
+- [ ] [Lambda Functions] 
+- [ ] [Linux & hotkeys] 
+- [ ] [Chapters basic Machine Learning]
+
+October
+- [ ] [Softskills and psychology] 
+- [ ] [Multi-Threading] 
+- [ ] [Recursion] 
+- [ ] [CUDA]
+
+November
+- [ ] [Design Patterns] 
+- [ ] [Awk & Sed] 
+- [ ] [TensorFlow] 
+- [ ] [Natural Language Processing]
+
+December
+- [ ] [Graphs] 
+- [ ] [Practice the interview] 
+- [ ] [FPGAs] 
+- [ ] [Compilers]
