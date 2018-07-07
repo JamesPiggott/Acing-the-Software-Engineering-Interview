@@ -179,6 +179,11 @@ More to follow
 ### Operating Systems
 More to follow
 
+### Graphical User Interfaces
+GUIs are simple enough to implement but hard to master. Below are several quick videos on how to start implementing GUIs in Python with the PyQT5 framework.
+ - [ ] [YouTube: Getting Started With PyQt 5](https://www.youtube.com/watch?v=FUlnu6DE1mI)
+ - [ ] [YouTube: Part 1 of PyQt5 tutorial](https://www.youtube.com/watch?v=pnpL9Sl79g8&list=PL1FgJUcJJ03uwFW8ys2ov2dffKs3ieGYk&index=2&t=0s)
+
 ### Programming Languages
  - [ ] [YouTube: basic categories of programming languages](https://www.youtube.com/watch?v=_zusEe3GOe8)
  - [ ] [YouTube: advanced distinctive features of programming languages](https://www.youtube.com/watch?v=GI_V3yzVDtA)
