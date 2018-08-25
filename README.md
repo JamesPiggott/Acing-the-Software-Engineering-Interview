@@ -298,38 +298,29 @@ Here is a list of skills I am working on to better represent myself. This list f
 ## Near time goals
 Here is small list of personal goals that I will try to accomplish in 2018.
 
-July
-- [ ] [Programming Languages] 
-- [ ] [Docker and Kubernetes] 
-- [ ] [PlanKalkul paper] 
-- [ ] [Chapters Recurrent and Convolutional Neural Networks]
-
 August
 - [ ] [Operating Systems] 
-- [ ] [MySQL and other types of databases] 
-- [ ] [Chapter Autoencoders]
-- [ ] [Keras application]
 
 September
-- [ ] [Vi(m) & Emacs] 
-- [ ] [Lambda Functions] 
-- [ ] [Linux & hotkeys] 
-- [ ] [Chapters basic Machine Learning]
-
-October
-- [ ] [Softskills and psychology] 
-- [ ] [Multi-Threading] 
-- [ ] [Recursion] 
+- [ ] [Practice the job interview]
+- [ ] [TensorFlow and Scikit-learn]
+- [ ] [Create a new Hadoop cluster]
 - [ ] [CUDA]
 
-November
-- [ ] [Design Patterns] 
-- [ ] [Awk & Sed] 
-- [ ] [TensorFlow] 
+October
+- [ ] [Graphs] 
+- [ ] [Reinforcement Learning]
 - [ ] [Natural Language Processing]
+- [ ] [Lambda Functions]
+
+November
+- [ ] [Awk & Sed]
+- [ ] [Compilers]
+- [ ] [Microservices]
+- [ ] [Softskills and psychology]
 
 December
-- [ ] [Graphs] 
-- [ ] [Practice the interview] 
-- [ ] [FPGAs] 
-- [ ] [Compilers]
+- [ ] [Vi(m) & Emacs]
+- [ ] [Multi-Threading]
+- [ ] [DeepLearning4J]
+- [ ] [More REST APIs]
