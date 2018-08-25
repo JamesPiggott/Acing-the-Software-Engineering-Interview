@@ -299,7 +299,7 @@ Here is a list of skills I am working on to better represent myself. This list f
 Here is small list of personal goals that I will try to accomplish in 2018.
 
 August
-- [ ] [Operating Systems] 
+- [ ] [Hadoop] 
 
 September
 - [ ] [Practice the job interview]
