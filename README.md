@@ -300,7 +300,7 @@ Here is small list of personal goals that I will try to accomplish in 2018.
 
 October
 - [ ] [Softskills and psychology]
-- [ ] [JUnit and Mockito]
+- [ ] [SQL: NoSQL and MySQL]
 - [ ] [Lambda Functions]
 - [ ] [Graphs: depth-first search]
 
