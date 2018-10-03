@@ -171,7 +171,17 @@ To generate webpages you could use Apache, but Java also comes with its own web 
 - [ ] [Garbage collection in Java](https://www.youtube.com/watch?v=UnaNQgzw4zY)
 
 ### Lambda functions
-More to follow
+Lambda functions were introduced with Java 8 in 2014. Lambda's are [anonymous functions](https://en.wikipedia.org/wiki/Anonymous_function) that can be passed as an argument or even returned as a value. They form a major part of [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming), but can be tricky to understand.
+Below is a link to the first video in a series of 25 by Koushik as he explains their relevance and use. The videos are short and to the point. So grab a coffee and start your introduction to Lambda's
+ - [ ] [YouTube: Java 8 Lambda Basics 1 - Introduction](https://www.youtube.com/watch?v=gpIUfj3KaOc&t=0s&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3&index=2)
+ 
+### Parallel Programming
+With parallel programming you can write algorithms that can efficiently make use of all the processing cores of a computer. This topic makes use of Lambda expression. In Java there are now APIs that allow programmers easy use of this concept.
+
+For those eager to do a deep dive, there is a Coursera specialization: [Parallel, Concurrent, and Distributed Programming in Java Specialization](Parallel, Concurrent, and Distributed Programming in Java Specialization). I just finished the first course and I believe I now have a much firmer grasp of this topic. As always the lectures and coding examples allow for a much deep understanding than a YouTube video.
+- [ ] [Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java)
+- [ ] [Concurrent Programming in Java](https://www.coursera.org/learn/concurrent-programming-in-java)
+- [ ] [Distributed Programming in Java](https://www.coursera.org/learn/distributed-programming-in-java)
 
 ### Compilers
 More to follow
