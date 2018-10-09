@@ -299,6 +299,12 @@ More on REST APIs here
 ### Learning Linux
 I already covered a lot of this in my book - [Linux, Programming and Hacking for Beginners](https://www.amazon.com/dp/B01N0CF3L5) - but it is something you will need to concentrate on.
 
+### Databases and SQL
+
+### NoSQL
+Although relational databases are the bread and butter of data management there are other variants - such as NoSQL
+- [ ] [YouTube: What is NoSQL?](https://www.youtube.com/watch?v=BgQFJ_UNIgw)
+
 ### Loose ends
 Here is a list of skills I am working on to better represent myself. This list focuses on soft skills, neat office skills and some psychology.
 - [ ] [EdClub](https://www.typingclub.com/sportal/)
