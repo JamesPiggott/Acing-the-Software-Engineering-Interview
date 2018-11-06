@@ -114,6 +114,10 @@ Graphs can be traversed with algorithms such as:
 - [ ] A* algorithm
 	- [ ] [Redblobgames](http://www.redblobgames.com/pathfinding/a-star/introduction.html)
 	- [ ] [Stanford](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
+- [ ] Convex Hull algorithm
+	- [ ] [YouTube](https://www.youtube.com/watch?v=XIAQRlNkJAw&feature=youtu.be&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3164)
+	- [ ] [YouTube](https://www.youtube.com/watch?v=J5aJEcOr6Eo&index=10&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
+	- [ ] [YouTube](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
 	
 Graphs are a complicated topic. The algorithms to traverse them are not easy to implement. If you find it difficult to use the videos and texts above then sign up for a MOOC course. 2 years ago I did [Object Oriented Java Programming: Data Structures and Beyond](https://www.coursera.org/specializations/java-object-oriented). It really helped me see the big picture. The third course in the specialization (Advanced Data Structures in Java) is on Graphs.
 
