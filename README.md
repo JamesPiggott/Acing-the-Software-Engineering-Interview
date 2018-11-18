@@ -318,18 +318,6 @@ Here is a list of skills I am working on to better represent myself. This list f
 ## Near time goals
 Here is small list of personal goals that I will try to accomplish in 2018.
 
-October
-- [ ] [Softskills and psychology]
-- [ ] [SQL: NoSQL and MySQL]
-- [ ] [Lambda Functions]
-- [ ] [Graphs: depth-first search]
-
-November
-- [ ] [Practice the job interview]
-- [ ] [Graphs: Breadth-first search]
-- [ ] [Docker and Kubernetes]
-- [ ] [Operating Systems]
-
 December
 - [ ] [Multi-Threading]
 - [ ] [REST APIs]
