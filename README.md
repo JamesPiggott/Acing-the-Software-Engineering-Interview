@@ -316,10 +316,16 @@ Here is a list of skills I am working on to better represent myself. This list f
 - [ ] [Hot keys]	
 
 ## Near time goals
-Here is small list of personal goals that I will try to accomplish in 2018.
+Here is small list of personal goals that I will try to accomplish in 2018. For the remaidner of the year I am keepign it light. I am currently trying my hand at a little bit of game development to scratch an itch.
+
+November
+- [ ] [Convex hull algorithm]
+- [ ] [Pygame]
+- [ ] [Unity]
+- [ ] [Scratch]
 
 December
-- [ ] [Multi-Threading]
-- [ ] [REST APIs]
-- [ ] [Graphs: Dijkstra's algorithm]
-- [ ] [Compilers]
+- [ ] [Unity]
+- [ ] [Blender]
+- [ ] [Scratch]
+- [ ] [JavaScript and React JS]
