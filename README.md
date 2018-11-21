@@ -320,7 +320,6 @@ Here is small list of personal goals that I will try to accomplish in 2018. For 
 
 November
 - [ ] [Convex hull algorithm]
-- [ ] [Pygame]
 - [ ] [Unity]
 - [ ] [Scratch]
 
