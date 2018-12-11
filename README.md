@@ -316,15 +316,43 @@ Here is a list of skills I am working on to better represent myself. This list f
 - [ ] [Hot keys]	
 
 ## Near time goals
-Here is small list of personal goals that I will try to accomplish in 2018. For the remaidner of the year I am keepign it light. I am currently trying my hand at a little bit of game development to scratch an itch.
+Hello everyone. In this final section I have created a wishlist of things I want to investigate and do over the cours of the following months. As 2018 is drawing to its close I have created a small summary for the first half of next year.
+For 2019 I focus a bit more on actually creating implementations, beef up my coding skills so to speak. As I am head deep into Deep Learning I have decided to create some showcase applications using Keras.
+I came up with a small list of 4 apps and I will be making one each every months. Besides that I am working on a small Unity game, which is coming along nicely. I will upload some link for Unity in the new year for I believe a software engineer can learn some skills in creating at least a simple application.
+To ensure some diversity I have interspersed the list with topics that have so far been missing from this page.
 
-November
+January
 - [ ] [Convex hull algorithm]
-- [ ] [Unity]
-- [ ] [Scratch]
+- [ ] [Keras image classifier showcase app]
+- [ ] [Unity game]
+- [ ] [REST APIs in Java and Python]
 
-December
-- [ ] [Unity]
-- [ ] [Blender]
-- [ ] [Scratch]
-- [ ] [JavaScript and React JS]
+February
+- [ ] [Keras game showcase app]
+- [ ] [Breadth-first search implementation ]
+- [ ] [Compilers]
+- [ ] [Unity game]
+
+March
+- [ ] [Keras graph showcase app]
+- [ ] [Depth-first search implementation]
+- [ ] [Operating Systems]
+- [ ] [Unity game]
+
+April
+- [ ] [Keras stockmarket showcase app]
+- [ ] [Recursion]
+- [ ] [String searching]
+- [ ] [Unity game]
+
+May
+- [ ] [Stack]
+- [ ] [Multi-Threading]
+- [ ] [Design Patterns]
+- [ ] [Unity game]
+
+June
+- [ ] [Queue]
+- [ ] [Kalman filter]
+- [ ] [Lambda functions ]
+- [ ] [Object-Oriented Programming]
