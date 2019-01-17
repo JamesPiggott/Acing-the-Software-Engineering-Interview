@@ -144,6 +144,17 @@ In this part I cover the advanced topics. I used Java because it is the language
 - [ ] Endianness
 	- [ ] [Micheal gives a small introduction](https://www.youtube.com/watch?v=JrNF0KRAlyo)
 
+### Advanced Python
+Some topics do not lend themselves easily explained in Java, so I have created this separate section.
+- [ ] Multiprocessing: creating entirely new program processes within Python to use those extra computer cores
+	- [ ] [Multiprocessing in Python: Introduction (Part 1)](https://www.youtube.com/watch?v=RR4SoktDQAw)
+	- [ ] [Multiprocessing in Python: Introduction (Part 2)](https://www.youtube.com/watch?v=itbx_hDX7z8&index=3&list=PL5tcWHG-UPH3SX16DI6EP1FlEibgxkg_6&t=0s)
+	- [ ] [Multiprocessing in Python: Locks](https://www.youtube.com/watch?v=iYJNmuD4McE&list=PL5tcWHG-UPH3SX16DI6EP1FlEibgxkg_6&index=3)
+	- [ ] [Multiprocessing in Python: Logging](https://www.youtube.com/watch?v=KpDKpgzvmrY&index=4&list=PL5tcWHG-UPH3SX16DI6EP1FlEibgxkg_6)
+	- [ ] [Multiprocessing in Python: Pool](https://www.youtube.com/watch?v=u2jTn-Gj2Xw&list=PL5tcWHG-UPH3SX16DI6EP1FlEibgxkg_6&index=5)
+	- [ ] [Multiprocessing in Python: Process Communication](https://www.youtube.com/watch?v=TQx3IfCVvQ0&list=PL5tcWHG-UPH3SX16DI6EP1FlEibgxkg_6&index=6)
+	- [ ] [Python 3.4 documentation site](https://docs.python.org/3.4/library/multiprocessing.html?highlight=process)
+
 ### Network coding
 A basic understanding of network coding is needed if you are expected to connect appliations. Luckily Java is very powerfull and makes network coding easy!
 - [ ] [Java Sockets 1 of 3](https://www.youtube.com/watch?v=6G_W54zuadg&t=6s)
