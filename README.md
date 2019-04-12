@@ -332,38 +332,20 @@ For 2019 I focus a bit more on actually creating implementations, beef up my cod
 I came up with a small list of 4 apps and I will be making one each every months. Besides that I am working on a small Unity game, which is coming along nicely. I will upload some link for Unity in the new year for I believe a software engineer can learn some skills in creating at least a simple application.
 To ensure some diversity I have interspersed the list with topics that have so far been missing from this page.
 
-January
-- [ ] [Convex hull algorithm]
-- [ ] [Keras image classifier showcase app]
-- [ ] [Unity game]
-- [ ] [REST APIs in Java and Python]
-
-February
-- [ ] [Keras game showcase app]
-- [ ] [Breadth-first search implementation ]
-- [ ] [Compilers]
-- [ ] [Unity game]
-
-March
-- [ ] [Keras graph showcase app]
-- [ ] [Depth-first search implementation]
-- [ ] [Operating Systems]
-- [ ] [Unity game]
-
 April
-- [ ] [Keras stockmarket showcase app]
-- [ ] [Recursion]
-- [ ] [String searching]
-- [ ] [Unity game]
+- [ ] [Cache algorithms]
+- [ ] []
+- [ ] []
+- [ ] []
 
 May
-- [ ] [Stack]
-- [ ] [Multi-Threading]
-- [ ] [Design Patterns]
-- [ ] [Unity game]
+- [ ] []
+- [ ] []
+- [ ] []
+- [ ] []
 
 June
-- [ ] [Queue]
-- [ ] [Kalman filter]
-- [ ] [Lambda functions ]
-- [ ] [Object-Oriented Programming]
+- [ ] []
+- [ ] []
+- [ ] []
+- [ ] []
