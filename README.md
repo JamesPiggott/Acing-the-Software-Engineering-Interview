@@ -327,24 +327,50 @@ Here is a list of skills I am working on to better represent myself. This list f
 - [ ] [Hot keys]	
 
 ## Near time goals
-Hello everyone. In this final section I have created a wishlist of things I want to investigate and do over the cours of the following months. As 2018 is drawing to its close I have created a small summary for the first half of next year.
-For 2019 I focus a bit more on actually creating implementations, beef up my coding skills so to speak. As I am head deep into Deep Learning I have decided to create some showcase applications using Keras.
-I came up with a small list of 4 apps and I will be making one each every months. Besides that I am working on a small Unity game, which is coming along nicely. I will upload some link for Unity in the new year for I believe a software engineer can learn some skills in creating at least a simple application.
-To ensure some diversity I have interspersed the list with topics that have so far been missing from this page.
-
-April
-- [ ] [Cache algorithms]
-- [ ] []
-- [ ] []
-- [ ] []
+Hello everyone. In this final section I have created a wishlist of things I want to investigate and do over the cours of the following months.
+For 2019 I focus a bit more on actually creating implementations, beef up my coding skills so to speak. Besides exploring my interests in Deep Learning I am also working on a small Unity game, which is coming along nicely. 
 
 May
+- [ ] [Bitwise operations]
+- [ ] [Conditional variables]
+
+June
+- [ ] [Inline statements]
+- [ ] [CPU, Registers and Cache]
+- [ ] [Design Patterns]
+- [ ] [Assembly Language]
+
+July
+- [ ] [Redis]
+- [ ] []
+- [ ] [Recursion]
+- [ ] []
+
+August
+- [ ] [Object-Oriented Programming]
+- [ ] [String searching]
+- [ ] []
+- [ ] []
+
+September
+- [ ] [Stack]
+- [ ] [Queue]
+- [ ] []
+- [ ] []
+
+October
+- [ ] [Unicode]
+- [ ] []
+- [ ] []
+- [ ] []
+
+November
 - [ ] []
 - [ ] []
 - [ ] []
 - [ ] []
 
-June
+December
 - [ ] []
 - [ ] []
 - [ ] []
