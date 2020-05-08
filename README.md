@@ -328,49 +328,22 @@ Here is a list of skills I am working on to better represent myself. This list f
 
 ## Near time goals
 Hello everyone. In this final section I have created a wishlist of things I want to investigate and do over the cours of the following months.
-For 2019 I focus a bit more on actually creating implementations, beef up my coding skills so to speak. Besides exploring my interests in Deep Learning I am also working on a small Unity game, which is coming along nicely. 
+For 2020 I focus a bit more on actually creating implementations, beef up my coding skills so to speak. 
+Besides exploring my interests in Deep Learning I am also working on a small Java programming game, which is coming along nicely. 
 
 May
-- [ ] [Bitwise operations]
-- [ ] [Conditional variables]
+- [ ] [Read Algorithms 4th ed]
+- [ ] [Do all programming exercises]
+- [ ] [Basic data structures - Stacks and Queues]
+- [ ] [Deep Learning AI course TensorFlow.js]
 
 June
-- [ ] [Inline statements]
-- [ ] [CPU, Registers and Cache]
-- [ ] [Design Patterns]
-- [ ] [Assembly Language]
+- [ ] []
+- [ ] []
+- [ ] []
+- [ ] []
 
 July
-- [ ] [Redis]
-- [ ] []
-- [ ] [Recursion]
-- [ ] []
-
-August
-- [ ] [Object-Oriented Programming]
-- [ ] [String searching]
-- [ ] []
-- [ ] []
-
-September
-- [ ] [Stack]
-- [ ] [Queue]
-- [ ] []
-- [ ] []
-
-October
-- [ ] [Unicode]
-- [ ] []
-- [ ] []
-- [ ] []
-
-November
-- [ ] []
-- [ ] []
-- [ ] []
-- [ ] []
-
-December
 - [ ] []
 - [ ] []
 - [ ] []
