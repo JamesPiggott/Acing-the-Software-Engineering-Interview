@@ -25,20 +25,30 @@ public class TestStack {
 	@Test
 	public void testPushAndPop() {
 		Stack<String> string = new Stack<String>();
-		string.push("Hello");
-		string.push("How");
-		string.push("Are");
-		string.push("You");
+		String s1 = "Hello";
+		string.push(s1);
+		String s2 = "How";
+		string.push(s2);
+		String s3 = "Are";
+		string.push(s3);
+		String s4 = "You";
+		string.push(s4);
 		
 		assert(!string.isEmpty());
 		assert(string.size() == 4);
 		
-//		assert(string.pop().equals("You"));
-//		assert(string.pop().equals("Are"));
-//		assert(string.pop().equals("How"));
-//		assert(string.pop().equals("Hello"));
-//		
-//		assert(string.isEmpty());
-//		assert(string.size() == 0);
+		String pop1 = string.pop();
+		assert(pop1.equals(s1));
+		String pop2 = string.pop();
+		assert(pop2.contentEquals("Are"));
+		String pop3 = string.pop();
+		assert(pop3.contentEquals("How"));
+		String pop4 = string.pop();
+		assert(pop4.contentEquals("Hello"));
+		
+		assert(string.isEmpty());
+		assert(string.size() == 0);
 	}
+	
+	
 }

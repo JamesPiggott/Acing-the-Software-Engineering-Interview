@@ -1,8 +1,8 @@
 # Acing the Software Engineering Interview
 
-For a while now I am having second thoughts on pursuing a career in the software industry. I did not roll into it naturally with a degree in Computer Science. I initially pursued a degree in Business before I made the switch. I discovered the wonderful world of Machine Learning and slowly drifted towards becoming a Data Scientist / Software Engineer. Yet, since leaving college I have not done as much with either as I would have liked. I have a high paying job at a defense contractor, but due to the nature of working on an established application my abilities are hardly utilized. I am a software developer not an engineer - I believe it is time to do something about that!
-About a year ago I came across John Washam blog and GitHub page on how to 'Ace the Interview' at a big tech company and decided I want do the same. However, John readily admits he made a few mistakes. I intend to learn from them, and I hope you will too.
-This list of topics will prepare you for becoming a Software Engineer / Data Scientist. And just like John Washam 'aim high' attitude, that includes Google, Apple, Amazon and Microsoft.
+For a while now I want to pursue a career in the software industry as a Data Scientist. I did not roll into it naturally with a degree in Computer Science. I initially pursued a degree in Business before I made the switch. I discovered the wonderful world of Machine Learning and slowly drifted towards becoming a Data Scientist / Software Engineer. Yet, since leaving college I have not done as much with either as I would have liked. I have a high paying job at a defense contractor, but due to the nature of working on an established application my abilities are hardly utilized. I am a software developer not an engineer - I believe it is time to do something about that!
+In late 2017 ago I came across John Washam's blog and GitHub page on how to 'Ace the Interview' at a big tech company and decided I want do the same. However, John readily admits he made a few mistakes. I intend to learn from them, and I hope you will too.
+This list of topics will prepare you for becoming a Software Engineer / Data Scientist. And just like John Washam's 'aim high' attitude, that includes Google, Apple, Amazon and Microsoft.
 
 Essentially this list is structured into 2 knowledge parts: must know knowledge for being a Software Engineer and an introduction to Machine Learning.
 
@@ -15,7 +15,7 @@ The list includes references to texts, web pages, YouTube videos, MOOCs and Book
 	- Code a lot. I want to implement all the relevant examples of algorithms, data structures and applications to gain practical experience.
 	- Test a lot. Code testing is laborious, boring but absolutely necessary. As this guide primarily deals with Java I will write test code using Junit and Mockito.
 	- Retain as much knowledge as possible. Try and find a way to retain the knowledge.
-	- Learn practical tips to becoming a Software Engineer. This means practicing for the interview, deal with issues such as fear, my introvertedness and how to work in an Agile / SCRUM way.
+	- Learn practical tips to becoming a Software Engineer. This means practicing for the interview, deal with issues such as fear, my natural introvertedness and how to work in an Agile / SCRUM way.
 
 ### Things I do not want to do
 	- Spend all of my free time on becoming a Software Engineer. John Washam admits he spent far too much time on his project. Currently I have a job and I do not need a burnout.
@@ -36,11 +36,22 @@ As such there are coding example in both Java and [Python](https://github.com/Ja
 ## Book List
 ### Introductory
 - [ ] [Linux, Programming and Hacking for Beginners](https://www.amazon.com/dp/B01N0CF3L5)
-	- [ ] This is a book that I wrote. It is an abolute beginners text to Linux and its the command line. There are additional chapters onthe basics of programming and hacking. The text is written in a light-hearted tone and contains a number of side articles in which I explain topics of Computer Science. I also review several movies, games and books in which CS plays an important part. For $3.99 you pick up your own copy on Amazon and thereby support me.
+	- [ ] This is a book that I wrote. It is an absolute beginners text to Linux and its the command line. There are additional chapters on the basics of programming and hacking. The text is written in a light-hearted tone and contains a number of side articles in which I explain topics of Computer Science. I also review several movies, games and books in which CS plays an important part. For $3.99 you pick up your own copy on Amazon and thereby support me.
+
 ### Java
 - [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=la_B000AQ4JCO_1_1?s=books&ie=UTF8&qid=1504424836&sr=1-1)
+
 ### Python
 - [ ] [An introduction to Programming in Python (Sedgewick, Wayne and Dondero)](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/ref=sr_1_3?s=books&ie=UTF8&qid=1504424916&sr=1-3&keywords=an+introduction+to+programming+in+python)
+- [ ] [Black Hat Python](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
+	- A quick and dirty look at network programming with Python
+
+### Machine / Deep Learning
+When it comes to Machine learning, and these more likely Deep Learning there are only two books that will really make a difference.
+- [ ] [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?ie=UTF8&qid=1523989891&sr=8-1&keywords=francois+chollet)
+	- Written by Francois Chollet himself. The book is practically new (October 2017), but is already considered the bible to Keras. It is also easy to work with
+- [ ] [Hands-on Machine Learning with Scikit-Learn and Tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=dp_ob_title_bk)
+	- The new 2nd edition covers TensorFlow 2, which integrates the Keras API directly into TensorFlow.
 
 ## Part 1. Software Engineering
 This part covers the basic of what a software engineer should know, by heart.
@@ -61,6 +72,7 @@ For the study of data structures and algorithms a three-pronged approach is used
 - [ ] Linked Lists
 	- [ ] [Video comparison of ArrayList and LinkedList](https://www.youtube.com/watch?v=WmvpGvQcVYs)
 - [ ] Stack
+	- [ ] [Video](https://www.youtube.com/watch?v=F1F2imiOJfk)
 - [ ] Queue
 - [ ] Priority Queue
 	- [ ] [StackOverflow](http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue)
@@ -253,9 +265,6 @@ The easiest way to quickly learn how to program Deep Learning solutions is throu
 - [ ] [REST API with Flask and cURL](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
 - [ ] [Advanced REST API (scalable, message queuing)](https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/)
 
-There are also a number of books on Keras. Note that Keras is still very new - yet it is quickly being adopted.
-- [ ] [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?ie=UTF8&qid=1523989891&sr=8-1&keywords=francois+chollet)
-	- Written by Francois Chollet himself. The book is practically new (October 2017), but is already considered the bible to Keras. It is also easy to work with
 
 All topics above are about using Deep Learning with Python. It shows you why Python is so important.
 

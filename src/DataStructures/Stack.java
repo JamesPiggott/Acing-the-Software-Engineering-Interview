@@ -7,7 +7,11 @@ public class Stack<Object> {
 	private int N;
 	
 	public boolean isEmpty() {
-		return first == null;
+		if (first == null) {
+			return true;
+		} else {
+			return false;
+		}
 	}
 	
 	public int size() {
@@ -15,18 +19,21 @@ public class Stack<Object> {
 	}
 	
 	public void push(Object o) {
-//		LinkedList oldfirst = first;
-//		first = new LinkedList();
-//		first.object = o;
-//		first.next = oldfirst;
-//		N++;
+		if (first == null) {
+			first = new LinkedList(o);
+		} else {
+			LinkedList oldfirst = first;
+			LinkedList first = new LinkedList(o);
+			first.setNext(oldfirst);
+		}
+		N++;
 	}
 	
-//	public Object pop() {
-////		@SuppressWarnings("unchecked")
-////		Object object = (Object) first.object;
-////		first = first.next;
-////		N--;
-////		return object;
-//	}
+	@SuppressWarnings("unchecked")
+	public Object pop() {
+		Object object = (Object) first.getObject();
+		first = first.getNext();
+		N--;
+		return (Object) object;
+	}
 }
