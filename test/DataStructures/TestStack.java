@@ -6,48 +6,48 @@ public class TestStack {
 	
 	@Test
 	public void testIsEmpty() {
-		Stack<String> string = new Stack<String>();
-		assert(string.isEmpty());
+		Stack<String> stack = new Stack<String>();
+		assert(stack.isEmpty());
 
-		string.push("Hello");
-		assert(!string.isEmpty());
+		stack.push("Hello");
+		assert(!stack.isEmpty());
 	}
 	
 	@Test
 	public void testSize() {
-		Stack<String> string = new Stack<String>();
-		assert(string.size() == 0);
+		Stack<String> stack = new Stack<String>();
+		assert(stack.size() == 0);
 		
-		string.push("Hello");
-		assert(string.size() == 1);
+		stack.push("Hello");
+		assert(stack.size() == 1);
 	}
 	
 	@Test
 	public void testPushAndPop() {
-		Stack<String> string = new Stack<String>();
+		Stack<String> stack = new Stack<String>();
 		String s1 = "Hello";
-		string.push(s1);
+		stack.push(s1);
 		String s2 = "How";
-		string.push(s2);
+		stack.push(s2);
 		String s3 = "Are";
-		string.push(s3);
+		stack.push(s3);
 		String s4 = "You";
-		string.push(s4);
+		stack.push(s4);
 		
-		assert(!string.isEmpty());
-		assert(string.size() == 4);
+		assert(!stack.isEmpty());
+		assert(stack.size() == 4);
 		
-		String pop1 = string.pop();
-		assert(pop1.equals(s1));
-		String pop2 = string.pop();
-		assert(pop2.contentEquals("Are"));
-		String pop3 = string.pop();
-		assert(pop3.contentEquals("How"));
-		String pop4 = string.pop();
-		assert(pop4.contentEquals("Hello"));
+		String pop1 = stack.pop();
+		assert(pop1.equals(s4));
+		String pop2 = stack.pop();
+		assert(pop2.equals(s3));
+		String pop3 = stack.pop();
+		assert(pop3.equals(s2));
+		String pop4 = stack.pop();
+		assert(pop4.equals(s1));
 		
-		assert(string.isEmpty());
-		assert(string.size() == 0);
+		assert(stack.isEmpty());
+		assert(stack.size() == 0);
 	}
 	
 	

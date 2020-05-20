@@ -18,15 +18,17 @@ public class Stack<Object> {
 		return N;
 	}
 	
-	public void push(Object o) {
+	public void push(Object word) {
+		LinkedList toPush = new LinkedList(word);
+	
 		if (first == null) {
-			first = new LinkedList(o);
+			first = toPush;
+			N++;
 		} else {
-			LinkedList oldfirst = first;
-			LinkedList first = new LinkedList(o);
-			first.setNext(oldfirst);
+			toPush.setNext(first);
+			first = toPush;
+			N++;
 		}
-		N++;
 	}
 	
 	@SuppressWarnings("unchecked")
@@ -34,6 +36,6 @@ public class Stack<Object> {
 		Object object = (Object) first.getObject();
 		first = first.getNext();
 		N--;
-		return (Object) object;
+		return object;
 	}
 }
