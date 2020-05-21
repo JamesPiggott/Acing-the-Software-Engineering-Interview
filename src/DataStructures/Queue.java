@@ -1,6 +1,7 @@
 package DataStructures;
 
-public class Queue {
+@SuppressWarnings("hiding")
+public class Queue<Object> {
 	
 	private LinkedList first;
 	private LinkedList last;
@@ -23,14 +24,16 @@ public class Queue {
 		
 		if (first == null) {
 			first = toInsert;
+			last = toInsert;
 			N++;
 		} else {
-//			toPush.setNext(first);
-//			first = toPush;
+			last.setNext(toInsert);
+			last = toInsert;
 			N++;
 		}
 	}
 	
+	@SuppressWarnings("unchecked")
 	public Object remove() {
 		Object object = (Object) first.getObject();
 		first = first.getNext();

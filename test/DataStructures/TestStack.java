@@ -49,6 +49,4 @@ public class TestStack {
 		assert(stack.isEmpty());
 		assert(stack.size() == 0);
 	}
-	
-	
 }
