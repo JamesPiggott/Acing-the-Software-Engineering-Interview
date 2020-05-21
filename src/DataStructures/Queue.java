@@ -25,8 +25,8 @@ public class Queue {
 			first = toInsert;
 			N++;
 		} else {
-			toPush.setNext(first);
-			first = toPush;
+//			toPush.setNext(first);
+//			first = toPush;
 			N++;
 		}
 	}
