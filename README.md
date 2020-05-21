@@ -6,7 +6,7 @@ This list of topics will prepare you for becoming a Software Engineer / Data Sci
 
 Essentially this list is structured into 2 knowledge parts: must know knowledge for being a Software Engineer and an introduction to Machine Learning.
 
-The list includes references to texts, web pages, YouTube videos, MOOCs and Books. I intend to go easy on reading books and just give you the essential list. Reading takes up a lot of time and I fear knowledge is not retained. The scope of this list is also paired down as much as possible. However, I advice you to practice coding for as much as possible.
+The list includes references to texts, web pages, YouTube videos, MOOCs and Books. I intend to go easy on reading books and just give you the essential list. Reading takes up a lot of time and I fear knowledge is not retained. The scope of this list is also paired down as much as possible. However, I advice you to practice coding for as much as possible. You may become disheartened by this list, but try to take heart nontheless. If a of this is new then at least try to integrate these topics your work or hobby. That way it this information will become more meaningful.
 
 ## Short description of Goals
 
@@ -22,38 +22,58 @@ The list includes references to texts, web pages, YouTube videos, MOOCs and Book
 	- Lose overview. There is such a thing as doing too much. Knowing when to stop is important and I will put that to the test.
 	- Not to be afraid to re-invent the wheel. The goal is not to do something new, the goal is to learn to do something new.
 
-## Interview Process & General Interview Prep
+## Part 1. Preparation for the Software Engineering Interview
+
+### Interview Process & General Interview Prep
 Here are some quick tutorials and tips to prepare for the interview process. I think it will give you a quick impression of what you do not know!
 
 - [ ] [ABC - Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
 - [ ] [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 
-## Pick a language
+After learning many of the topics described in the sections on Software Engineering and Machine Learning you should have a well rounded knowledge base. To actually get a job at the company of your choice you will need to ace the interview. This section will concentrate on all that is necessary to accomplish just that. If you want to continue learning take a look at the section below entitled Other Topics.
+
+### Coding Exercises
+If you are uncertain how well you can code when facing an unexpected challenge try a coding challenge. Seriously there are plenty of online challenge sites.
+
+Some help with challenges
+- [ ] [TopCode tips](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
+
+Challenge websites
+- [ ] [CoderByte](https://coderbyte.com/)
+- [ ] [TopCode](https://www.topcoder.com/)
+- [ ] [Interactive Jupiter Python](https://github.com/donnemartin/interactive-coding-challenges)
+
+### Pick a language
 For the interview you will need to select one programming language. I have made the choice for you as I use Java. However, you will need to know more. You will also need to know a scripting language. The obvious choice is Python, which is also popular with Machine Learning.
 As such there are coding example in both Java and [Python](https://github.com/JamesPiggott/PythonSoftwareEngineeringInterview)
 
-## Book List
-### Introductory
+### Book List
+Despite my reluctance at giving you an endless list of books to read there are a number that can be considered essential. If you read them, delve into them. Don't just rush through cover to cover, but to the exercises, answer the practice questions. That is the best way to retain the knowledge they contain.
+An important book listed below is 'Algorithms' by Sedgewick and Wayne. It assumes you know how to program Java, but other than thatg it is the most important book listed on this page and on its own contain maybe a quarter of the knowledge required to pass an interview - maybe more if only general topics are discussed. It took me about a year to read it, having stopped along the way numerous times.
+
+#### Introductory
 - [ ] [Linux, Programming and Hacking for Beginners](https://www.amazon.com/dp/B01N0CF3L5)
 	- [ ] This is a book that I wrote. It is an absolute beginners text to Linux and its the command line. There are additional chapters on the basics of programming and hacking. The text is written in a light-hearted tone and contains a number of side articles in which I explain topics of Computer Science. I also review several movies, games and books in which CS plays an important part. For $3.99 you pick up your own copy on Amazon and thereby support me.
 
-### Java
+#### Java
 - [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=la_B000AQ4JCO_1_1?s=books&ie=UTF8&qid=1504424836&sr=1-1)
+	- I have already touted its importance above. Note that plenty of videos on this page discuss the same topics - especially those on Data Structure and Algorithms.
 
-### Python
+#### Python
 - [ ] [An introduction to Programming in Python (Sedgewick, Wayne and Dondero)](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/ref=sr_1_3?s=books&ie=UTF8&qid=1504424916&sr=1-3&keywords=an+introduction+to+programming+in+python)
+	- Another excellent book by Sedgewick and Wayne. Its an introductory book to Python Programmign but it does cover advanced topics that you must if you work in the sciences.
 - [ ] [Black Hat Python](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
 	- A quick and dirty look at network programming with Python
 
-### Machine / Deep Learning
-When it comes to Machine learning, and these more likely Deep Learning there are only two books that will really make a difference.
+#### Machine / Deep Learning
+When it comes to Machine learning, and these days more likely Deep Learning there are only two books that will really make a difference.
 - [ ] [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?ie=UTF8&qid=1523989891&sr=8-1&keywords=francois+chollet)
 	- Written by Francois Chollet himself. The book is practically new (October 2017), but is already considered the bible to Keras. It is also easy to work with
 - [ ] [Hands-on Machine Learning with Scikit-Learn and Tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=dp_ob_title_bk)
 	- The new 2nd edition covers TensorFlow 2, which integrates the Keras API directly into TensorFlow.
 
-## Part 1. Software Engineering
+## Part 2. Basics of Software Engineering: Data Structure, Algorithms and Graphs
 This part covers the basic of what a software engineer should know, by heart.
 
 ### Google tips
@@ -65,15 +85,19 @@ The people at Google have supplied a handy list of topics you need to master sho
 - [ ] [Introduction Video](https://www.youtube.com/watch?v=V6mKVRU1evU)
 
 ### Data Structures
-For the study of data structures and algorithms a three-pronged approach is used. First, a short descriptive video is linked (usually YouTube). Second, a simple implementation is referenced which the reader can examine. Third and finally a short descriptive text is linked in which the topic is discussed.
+For the study of data structures and algorithms a three-pronged approach is used. First, a short descriptive video is listed (usually YouTube). Second, a simple implementation is referenced which the reader can examine. Third a small task is proposed for the reader. usually this means creating your own implementation.
 	
 - [ ] Arrays: understand the (speed) difference between a static array and a dynamic (of type) Array.
 	- [ ] [Video](https://www.youtube.com/watch?v=eNPX2pTiaHI)
 - [ ] Linked Lists
 	- [ ] [Video comparison of ArrayList and LinkedList](https://www.youtube.com/watch?v=WmvpGvQcVYs)
+	- [ ] Implement your own LinkedList
 - [ ] Stack
 	- [ ] [Video](https://www.youtube.com/watch?v=F1F2imiOJfk)
+	- [ ] Implement your own Stack using your own LinkedList
 - [ ] Queue
+	- [ ] [Video](https://www.youtube.com/watch?v=XuCbpw6Bj1U)
+	- [ ] Implement your own Queue using your own LinkedList
 - [ ] Priority Queue
 	- [ ] [StackOverflow](http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue)
 - [ ] Hash table
@@ -282,21 +306,13 @@ Numpy is an important library that any Data Scientist should be familiar with, u
 - [ ] [Introduction: Arrays in Python / Numpy](https://www.youtube.com/watch?v=mOZ0UCeuRX4)
 
 ## Part 4. Practicing for the Interview
-After learning many of the topics described in the sections on Software Engineering and Machine Learning you should have a well rounded knowledge base. To actually get a job at the company of your choice you will need to ace the interview. This section will concentrate on all that is necessary to accomplish just that. If you want to continue learning take a look at the section below entitled Other Topics.
 
-### Coding Exercises
-If you are uncertain how well you can code when facing an unexpected challenge try a coding challenge. Seriously there are plenty of online challenge sites.
 
-Some help with challenges
-- [ ] [TopCode tips](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
+## Part 6. Other topics
+If you have gone through the list above you may become disheartened at the volume of knowledge. And yet there is plenty more to learn. How well are you versed using Linux, what about JavaScript? Below is a list of topics I could not fit elsewhere. I think they are optional, but I cannot judge that without knowing what kind of job you want in IT.
 
-Challenge websites
-- [ ] [CoderByte](https://coderbyte.com/)
-- [ ] [TopCode](https://www.topcoder.com/)
-- [ ] [Interactive Jupiter Python](https://github.com/donnemartin/interactive-coding-challenges)
-
-## Part 5. Other topics
 ### More Books
+There are always more books to read. However, if you have gotten this far I think books on Programming and Programming Languages becomes superfluous. You should concentrate on the book picture. Below are several books on hacking that discuss a wide variety of topics. They won't make you a hacker but they will give you insight into how your software migth be vulnerable.
 - [ ] [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=la_B001JP4N76_1_3?s=books&ie=UTF8&qid=1497793864&sr=1-3&refinements=p_82%3AB001JP4N76)
 	- An essential must read for it chapters on Cryptology, Network attacks and Stack Overflows. The book is not an tome, but beginners might have some difficulty.
 - [ ] [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275951/ref=la_B00JAM3QNC_1_1?s=books&ie=UTF8&qid=1497794043&sr=1-1&refinements=p_82%3AB00JAM3QNC)
@@ -304,10 +320,10 @@ Challenge websites
 
 ### More Programming languages
 The coding interviews taking by tech-companies usually concentrate on just one language. The interviewee can choose from a small selection: usually C, Java or Python. However, there is a much larger world involving databases and web programming. Knowing other languages becomes vital just not for the interview. As an option choose one of the languages to round out your skills. I choose the Go programming language. 
-- [ ] Go: Google multi-paradigm language.
+- [ ] Go: Google's multi-paradigm language. Despite being compiled it feels a lot like a scripting language such as Python.
 	- [Book: The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
 	- [Video](https://www.youtube.com/watch?v=29LLRKIL_TI)
-- [ ] R: A language that focuses on statistical analysis, but it has lost some important in Machine Learning in favor of Python.
+- [ ] R: A language that focuses on statistical analysis, but it has lost most of its importance in Data Science in favor of Python.
 - [ ] Swift
 - [ ] Ruby
 - [ ] Julia: A new scientific general purpose language.
@@ -352,8 +368,10 @@ June
 - [ ]( )
 - [ ]( )
 
-July
-- [ ]( )
-- [ ]( )
-- [ ]( )
-- [ ]( )
+## Proposed new structure of this guide page
+Part 1. Preparation for the Software Engineering Interview
+Part 2. Basics of Software Engineering: Data Structure, Algorithms and Graphs
+Part 3. Advanced Topics: Computer Science, Network coding, Design Patterns and Multi-Threading
+Part 4. Machine and Deep Learning
+Part 5. Virtualization and Cloud Computing
+Part 6. Other Topics
