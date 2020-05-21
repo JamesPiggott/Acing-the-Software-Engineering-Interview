@@ -99,7 +99,9 @@ For the study of data structures and algorithms a three-pronged approach is used
 	- [ ] [Video](https://www.youtube.com/watch?v=XuCbpw6Bj1U)
 	- [ ] Implement your own Queue using your own LinkedList
 - [ ] Priority Queue
+	- [ ] [Video](https://www.youtube.com/watch?v=wptevk0bshY)
 	- [ ] [StackOverflow](http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue)
+	- [ ] Implement your own priority queue
 - [ ] Hash table
 	- [ ] [Introduction Video](https://www.youtube.com/watch?v=MfhjkfocRR0)
 	- [ ] [CS50 tutorial with Lauren](https://www.youtube.com/watch?v=h2d9b_nEzoA)
@@ -161,7 +163,7 @@ Graphs are a complicated topic. The algorithms to traverse them are not easy to 
 #### Logarithms
 - [ ] [Logarithms, Explained 3 minute video](https://www.youtube.com/watch?v=zzu2POfYv0Y)
 
-## Part 2. Advanced topics with Java
+## Part 3. Advanced Topics: Computer Science, Network coding, Design Patterns and Multi-Threading
 In this part I cover the advanced topics. I used Java because it is the language I am most comfortable with, but try and code in Python if you can.
 
 ### Advanced Java
@@ -253,7 +255,7 @@ GUIs are simple enough to implement but hard to master. Below are several quick 
 ### Papers
 Below is a list of papers (scientific and otherwise). They are not mandatory to read but they do discus the latest developments in IT. I find them inspiring to read.
 
-## Part 3. Machine Learning
+## Part 4. Machine and Deep Learning
 This part covers the most interesting parts, the very reason I continue to study computer science. Note that a lot of the material is new and not well established. That is what makes it so exciting.
 
 ### Google Machine Learning Crash course
@@ -289,7 +291,6 @@ The easiest way to quickly learn how to program Deep Learning solutions is throu
 - [ ] [REST API with Flask and cURL](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
 - [ ] [Advanced REST API (scalable, message queuing)](https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/)
 
-
 All topics above are about using Deep Learning with Python. It shows you why Python is so important.
 
 ### Vectorization
@@ -305,7 +306,8 @@ Lets get dirty with vectorization and use the Python Numpy library
 Numpy is an important library that any Data Scientist should be familiar with, use it to vectorize, lambdadize and otherwise perform operations on data.
 - [ ] [Introduction: Arrays in Python / Numpy](https://www.youtube.com/watch?v=mOZ0UCeuRX4)
 
-## Part 4. Practicing for the Interview
+## Part 5. Virtualization and Cloud Computing
+I will fill out this section in soon enough.
 
 
 ## Part 6. Other topics
@@ -352,26 +354,28 @@ Here is a list of skills I am working on to better represent myself. This list f
 - [ ] [Hot keys]( )
 
 ## Near time goals
-Hello everyone. In this final section I have created a wish list of things I want to investigate and do over the cause of the following months.
-For 2020 I focus a bit more on actually creating implementations, beef up my coding skills so to speak. 
+In this final section I have created a wish list of things I want to investigate over the cause of the following months.
+For 2020 I focus more on actually creating implementations, beef up my coding skills so to speak. 
 Besides exploring my interests in Deep Learning I am also working on a small Java programming game, which is coming along nicely. 
 
-May
-- [ ] [Read Algorithms 4th ed]( )
-- [ ] [Do all programming exercises]( )
-- [ ] [Basic data structures - Stacks and Queues]( ) 
-- [ ] [Deep Learning AI course TensorFlow.js]( )
+2020 overall goals
+- [ ] [Implement Coding Game in Java]( )
+- [ ] [Implement Deep Learning Project Manager]( 
 
 June
-- [ ]( )
-- [ ]( )
-- [ ]( )
-- [ ]( )
+- [ ] [Read Algorithms 4th ed Chapter 1]( )
+- [ ] [Finish TensorFlow: Data and Deployment Specialization]( )
+- [ ] [Recursion]( )
+- [ ] [Breadth-first search]( )
 
-## Proposed new structure of this guide page
-Part 1. Preparation for the Software Engineering Interview
-Part 2. Basics of Software Engineering: Data Structure, Algorithms and Graphs
-Part 3. Advanced Topics: Computer Science, Network coding, Design Patterns and Multi-Threading
-Part 4. Machine and Deep Learning
-Part 5. Virtualization and Cloud Computing
-Part 6. Other Topics
+July
+- [ ] [Read Algorithms 4th ed Chapter 2]( )
+- [ ] [Course - Personality Types At Work]( )
+- [ ] [Recursion]( )
+- [ ] [Depth-first search]( )
+
+August
+- [ ] [Read Algorithms 4th ed Chapter 3]( )
+- [ ] [Design Patterns]( )
+- [ ] [String Searching]( )
+- [ ] [Dijkstra algorithm]( )
