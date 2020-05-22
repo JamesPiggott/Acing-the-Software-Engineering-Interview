@@ -360,7 +360,7 @@ Besides exploring my interests in Deep Learning I am also working on a small Jav
 
 2020 overall goals
 - [ ] [Implement Coding Game in Java]( )
-- [ ] [Implement Deep Learning Project Manager]( 
+- [ ] [Implement Deep Learning Project Manager]( )
 
 June
 - [ ] [Read Algorithms 4th ed Chapter 1]( )
