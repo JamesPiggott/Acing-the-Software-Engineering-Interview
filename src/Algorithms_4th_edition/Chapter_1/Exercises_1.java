@@ -21,6 +21,11 @@ public class Exercises_1 {
 		exercise.printAnswer117();
 		exercise.printAnswer118();
 		exercise.printAnswer119();
+		exercise.printAnswer1110();
+		exercise.printAnswer1111();
+		exercise.printAnswer1112();
+//		exercise.printAnswer1113();
+		exercise.printAnswer1114();
 	}
 	
 	public void printAnswer111() {
@@ -169,4 +174,108 @@ public class Exercises_1 {
 		System.out.println();
 	}
 	
+	public void printAnswer1110() {
+		System.out.println("Answers to question 1.1.10");
+		
+//		int[] a;
+//		for(int i = 0; i < 10; i++) {
+//			a[i] = i * i;
+//		}
+		System.out.println("The local variable a may not have been initialized");
+
+		
+		System.out.println();
+	}
+
+	public void printAnswer1111() {
+		System.out.println("Answers to question 1.1.11");
+		
+		char[][] array = new char[2][2];
+		array[0][0] = '*';
+		array[1][1] = '*';
+		array[0][1] = ' ';
+		array[1][0] = ' ';
+		
+		for(int i = 0 ; i < 2; i++) {
+			for(int j = 0; j < 2; j++) {
+				if(array[i][j] == '*') {
+					System.out.println(true);
+				} else if(array[i][j] == ' ') {
+					System.out.println(false);
+				}
+			}
+		}
+
+		System.out.println();
+	}
+	
+	public void printAnswer1112() {
+		System.out.println("Answers to question 1.1.12");
+		
+		int[] a = new int[10];
+		for(int i = 0; i < 10; i++) {
+			a[i] = 9 - i;
+		}
+		for(int i = 0; i < 10; i++) {
+			a[i] = a[a[i]];
+		}
+		for(int i = 0; i < 10; i++) {
+			System.out.println(a[i]);
+		}
+
+		System.out.println();
+	}
+	
+	public void printAnswer1113() {
+		System.out.println("Answers to question 1.1.13");
+		
+		int[][] array = {{1,2,3},{4,5,6}};
+		int[][] trans = new int[array[0].length][array.length];
+		
+		for(int i = 0; i < array.length; i++) {
+			for(int j = 0; j < array[0].length; j++) {
+				trans[j][i] = array[i][j];
+			}
+		}
+		
+		for(int i = 0; i < array.length; i++) {
+			for(int j = 0; j < array[0].length; j++) {
+				System.out.println(trans[i][j]);
+			}
+		}
+
+		System.out.println();
+	}
+	
+	public void printAnswer1114() {
+		System.out.println("Answers to question 1.1.4");
+		
+		System.out.println(lg(1));
+		System.out.println(lg(2));
+		System.out.println(lg(4));
+
+		System.out.println();
+	}
+	
+	public static int lg(int value) {
+		
+		int count = 0;
+		while(true) {
+			int result = 0;
+			for(int i = 1; i <= count; i++) {
+				result = 2 * result;
+			}
+			if (result > value) {
+				break;
+			} else {
+				count++;
+			}
+		}
+		
+		System.out.println("Test :" + (count - 1));
+		
+		
+		
+		return 0;
+	}
 }
