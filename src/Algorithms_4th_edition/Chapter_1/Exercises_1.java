@@ -25,7 +25,9 @@ public class Exercises_1 {
 		exercise.printAnswer1111();
 		exercise.printAnswer1112();
 //		exercise.printAnswer1113();
-		exercise.printAnswer1114();
+//		exercise.printAnswer1114();
+		exercise.printAnswer1115();
+		exercise.printAnswer1116();
 	}
 	
 	public void printAnswer111() {
@@ -248,7 +250,7 @@ public class Exercises_1 {
 	}
 	
 	public void printAnswer1114() {
-		System.out.println("Answers to question 1.1.4");
+		System.out.println("Answers to question 1.1.14");
 		
 		System.out.println(lg(1));
 		System.out.println(lg(2));
@@ -274,8 +276,47 @@ public class Exercises_1 {
 		
 		System.out.println("Test :" + (count - 1));
 		
-		
-		
 		return 0;
+	}
+	
+	public void printAnswer1115() {
+		System.out.println("Answers to question 1.1.15");
+		
+		int[] array = {2,2,3,3,5,6};
+			
+		int[] result = histogram(array, 5);
+		
+		for (int i = 0; i < result.length; i++) {
+			System.out.println(result[i]);
+		}
+		
+		System.out.println();
+	}
+	
+	public static int[] histogram(int[] a, int m) {
+		int[] histogram = new int[m];
+				
+		for (int i = 0; i < a.length; i++) {
+			int entry = a[i];			
+			if (entry < histogram.length) {
+				int value = histogram[entry];
+				value = value + 1;
+				histogram[entry] = value;	
+			}
+		}
+		return histogram;	
+	}
+	
+	public void printAnswer1116() {
+		System.out.println("Answers to question 1.1.16");
+		
+		System.out.println(exR1(6));
+		
+		System.out.println();
+	}
+	
+	public static String exR1(int n) {
+		if (n <= 0) return "";
+		return exR1(n-3) + n + exR1(n-2) + n;
 	}
 }
