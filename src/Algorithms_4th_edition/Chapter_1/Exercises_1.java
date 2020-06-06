@@ -319,4 +319,13 @@ public class Exercises_1 {
 		if (n <= 0) return "";
 		return exR1(n-3) + n + exR1(n-2) + n;
 	}
+	
+	public void printAnswer1117() {
+		System.out.println("Answers to question 1.1.17");
+		
+		System.out.println("The conditional statement occurs after the recursive call and is thus never called.");
+		System.out.println("The values of n thus become negative and the program will run in an infinite loop until StackOverflow.");
+		
+		System.out.println();
+	}
 }

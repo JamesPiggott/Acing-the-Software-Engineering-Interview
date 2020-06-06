@@ -341,6 +341,9 @@ More on REST APIs here
 ### Learning Linux
 I already covered a lot of this in my book - [Linux, Programming and Hacking for Beginners](https://www.amazon.com/dp/B01N0CF3L5) - but it is something you will need to concentrate on.
 
+The following videos are good to view if your job will involve Linux
+- [ ] [YouTube: Top 10 Linux Job Interview Questions](https://youtu.be/l0QGLMwR-lY)
+
 ### Databases and SQL
 
 ### NoSQL
