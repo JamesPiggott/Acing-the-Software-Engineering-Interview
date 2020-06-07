@@ -171,6 +171,9 @@ In this part I cover the advanced topics. I used Java because it is the language
 	- [ ] A question on how to swap two variables without using a third is bound to come up in an job interview. The small video below gives an implementation. Try to expand it with a speed test!
 		- [ ] [Video](https://www.youtube.com/watch?v=mJG1DManmLc)
 - [ ] Recursion
+	- [ ] [YouTube: Java Recursion with Alex Lee](https://www.youtube.com/watch?v=sE0sH8vSmE4)
+	- [ ] [YouTube: Derek Banas](https://www.youtube.com/watch?v=neuDuf_i8Sg)
+	- [ ] [YouTube: Programming Loops vs Recursion](https://www.youtube.com/watch?v=HXNhEYqFo0o)
 - [ ] Object-Oriented Programming
 - [ ] Design Patterns
 - [ ] Multi-Threading
