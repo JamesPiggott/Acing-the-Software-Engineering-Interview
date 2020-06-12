@@ -25,9 +25,13 @@ public class Exercises_1 {
 		exercise.printAnswer1111();
 		exercise.printAnswer1112();
 //		exercise.printAnswer1113();
-//		exercise.printAnswer1114();
+		exercise.printAnswer1114();
 		exercise.printAnswer1115();
 		exercise.printAnswer1116();
+		exercise.printAnswer1117();
+		exercise.printAnswer1118();
+//		exercise.printAnswer1119();
+		exercise.printAnswer1120();
 	}
 	
 	public void printAnswer111() {
@@ -328,4 +332,91 @@ public class Exercises_1 {
 		
 		System.out.println();
 	}
+	
+	public void printAnswer1118() {
+		System.out.println("Answers to question 1.1.18");
+		
+		System.out.println(mystery(2, 25));
+		System.out.println(mystery(3, 11));
+
+		System.out.println("Mystery calculates the multiplacation of integers a and b using recursion");
+		
+		System.out.println(mystery2(2, 25));
+		System.out.println(mystery2(3, 11));
+		
+		System.out.println("It calculates a * b, then subtracts a and then multiplies by a");
+		
+		System.out.println();
+	}
+	
+	public static int mystery(int a, int b) {
+		if (b == 0) {
+			return 0;
+		}
+		if (b % 2 == 0) {
+			return mystery(a+a, b/2);
+		}
+		return mystery(a+a, b/2) + a;
+	}
+	
+	public static int mystery2(int a, int b) {
+		if (b == 0) {
+			return 1;
+		}
+		if (b % 2 == 0) {
+			return mystery(a*a, b/2);
+		}
+		return mystery(a*a, b/2) * a;
+	}
+	
+	public void printAnswer1119() {
+		System.out.println("Answers to question 1.1.19");
+			
+		long end = System.currentTimeMillis() + (60 * 60 * 1000);
+		
+		for (int n = 0; n < 90; n++) {
+			
+			if (System.currentTimeMillis() < end) {
+				System.out.println(n + " " + Fibonacci.F(n));
+			} else {
+				System.out.println("Time is up!");
+			}
+
+		}
+		
+		System.out.println();
+	}
+	
+	public void printAnswer1120() {
+		System.out.println("Answers to question 1.1.20");
+			
+		System.out.println(factorial(1));
+		System.out.println(factorial(2));
+		System.out.println(factorial(3));
+		System.out.println(factorial(4));
+		System.out.println(factorial(5));
+		
+		System.out.println();
+	}
+		
+	
+
+    public static int factorial(int n) {
+        if ( n == 0 ) {
+            return 1;
+        } else {
+            return n * factorial(n - 1);
+        }
+    }
+	
+}
+
+class Fibonacci {
+	
+	public static long F(int n) {
+		if (n == 0) return 0;
+		if (n == 1) return 1;
+		return F(n-1) + F(n-2);
+	}
+	
 }
