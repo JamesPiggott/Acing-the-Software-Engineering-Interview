@@ -1,26 +1,30 @@
 # Acing the Software Engineering Interview
 
-For a while now I want to pursue a career in the software industry as a Data Scientist. I did not roll into it naturally with a degree in Computer Science. I initially pursued a degree in Business before I made the switch. I discovered the wonderful world of Machine Learning and slowly drifted towards becoming a Data Scientist / Software Engineer. Yet, since leaving college I have not done as much with either as I would have liked. I have a high paying job at a defense contractor, but due to the nature of working on an established application my abilities are hardly utilized. I am a software developer not an engineer - I believe it is time to do something about that!
-In late 2017 ago I came across John Washam's blog and GitHub page on how to 'Ace the Interview' at a big tech company and decided I want do the same. However, John readily admits he made a few mistakes. I intend to learn from them, and I hope you will too.
-This list of topics will prepare you for becoming a Software Engineer / Data Scientist. And just like John Washam's 'aim high' attitude, that includes Google, Apple, Amazon and Microsoft.
+For a while now I want to pursue a career in the software industry as a Data Scientist. I did not roll into Computer Science with a degree. Instead, I initially pursued a degree in Business before I made the switch. I discovered the wonderful world of Machine Learning and slowly drifted towards becoming a Data Scientist / Software Engineer. Yet, since leaving college I have not done as much with either as I would have liked. I have a high paying job at a defense contractor, but due to the nature of working on an established application my abilities are under-utilized. I am mostly a software developer, not an engineer! I believe it is time to do something about that!
+In early 2017 ago I came across John Washam's blog and GitHub page on how to 'Ace the Interview' at a big tech company and decided I want do the same. However, John readily admits he made a few mistakes. I intend to learn from them, and I hope you will too.
+This list of topics will prepare you for becoming a Software Engineer / Data Scientist. Just like John's 'aim high' attitude, that includes Google, Apple, Amazon and Microsoft.
 
-Essentially this list is structured into 2 knowledge parts: must know knowledge for being a Software Engineer and an introduction to Machine Learning.
+Essentially this list is structured into 4 knowledge parts: preparation for the Software Engineering Interview, the basics of Software Engineering: Data Structure, Algorithms and Graphs followed by shorter sections on Machine Learning and Cybersecurity.
 
-The list includes references to texts, web pages, YouTube videos, MOOCs and Books. I intend to go easy on reading books and just give you the essential list. Reading takes up a lot of time and I fear knowledge is not retained. The scope of this list is also paired down as much as possible. However, I advice you to practice coding for as much as possible. You may become disheartened by this list, but try to take heart nontheless. If a of this is new then at least try to integrate these topics your work or hobby. That way it this information will become more meaningful.
+The list includes references to texts, web pages, YouTube videos, MOOCs and Books. I intend to go easy on reading books and just give you the essential list. Reading takes up a lot of time and I fear knowledge is not retained. The scope of this list is also paired down as much as possible. However, I advice you to practice coding as much as possible. It is a good way to find your niche. You may become disheartened by this list, but try to take heart nontheless. If all of this is new then at least try to integrate these topics into your work or hobby. That way it this information will become more meaningful.
 
 ## Short description of Goals
 
 ### Things I want to achieve
 	- Go through all the relevant subject material - even stuff I already know. By proceeding through all the material over a period of several months may help me understand the big picture of Computer Science.
 	- Code a lot. I want to implement all the relevant examples of algorithms, data structures and applications to gain practical experience.
-	- Test a lot. Code testing is laborious, boring but absolutely necessary. As this guide primarily deals with Java I will write test code using Junit and Mockito.
+	- Test a lot. Code testing is laborious, boring but absolutely necessary. As this guide primarily deals with Java I will write test code using Junit.
 	- Retain as much knowledge as possible. Try and find a way to retain the knowledge.
+	- Create showcase projects for future reference.
 	- Learn practical tips to becoming a Software Engineer. This means practicing for the interview, deal with issues such as fear, my natural introvertedness and how to work in an Agile / SCRUM way.
 
 ### Things I do not want to do
 	- Spend all of my free time on becoming a Software Engineer. John Washam admits he spent far too much time on his project. Currently I have a job and I do not need a burnout.
 	- Lose overview. There is such a thing as doing too much. Knowing when to stop is important and I will put that to the test.
 	- Not to be afraid to re-invent the wheel. The goal is not to do something new, the goal is to learn to do something new.
+	
+### Preparing for 2021
+    - After 2020 and COVID I intend to adjust my goals. Right now I have achieved seniority in management so that migth give me leverage to prsue new goals. For 2021 I still need to fully establish those.
 
 ## Part 1. Preparation for the Software Engineering Interview
 
@@ -50,7 +54,7 @@ As such there are coding example in both Java and [Python](https://github.com/Ja
 
 ### Book List
 Despite my reluctance at giving you an endless list of books to read there are a number that can be considered essential. If you read them, delve into them. Don't just rush through cover to cover, but to the exercises, answer the practice questions. That is the best way to retain the knowledge they contain.
-An important book listed below is 'Algorithms' by Sedgewick and Wayne. It assumes you know how to program Java, but other than thatg it is the most important book listed on this page and on its own contain maybe a quarter of the knowledge required to pass an interview - maybe more if only general topics are discussed. It took me about a year to read it, having stopped along the way numerous times.
+An important book listed below is 'Algorithms' by Sedgewick and Wayne. It assumes you know how to program Java, but other than that it is the most important book listed on this page and on its own contain maybe a quarter of the knowledge required to pass an interview - maybe more if only general topics are discussed. It took me about a year to read it, having stopped along the way numerous times.
 
 #### Introductory
 - [ ] [Linux, Programming and Hacking for Beginners](https://www.amazon.com/dp/B01N0CF3L5)
@@ -258,7 +262,7 @@ GUIs are simple enough to implement but hard to master. Below are several quick 
 ### Papers
 Below is a list of papers (scientific and otherwise). They are not mandatory to read but they do discus the latest developments in IT. I find them inspiring to read.
 
-## Part 4. Machine and Deep Learning
+## Part 3. Machine (Deep) Learning & Computer Vision
 This part covers the most interesting parts, the very reason I continue to study computer science. Note that a lot of the material is new and not well established. That is what makes it so exciting.
 
 ### Google Machine Learning Crash course
@@ -309,11 +313,9 @@ Lets get dirty with vectorization and use the Python Numpy library
 Numpy is an important library that any Data Scientist should be familiar with, use it to vectorize, lambdadize and otherwise perform operations on data.
 - [ ] [Introduction: Arrays in Python / Numpy](https://www.youtube.com/watch?v=mOZ0UCeuRX4)
 
-## Part 5. Virtualization and Cloud Computing
+## Part 4. Penetration Testing & Security
 I will fill out this section in soon enough.
 
-
-## Part 6. Other topics
 If you have gone through the list above you may become disheartened at the volume of knowledge. And yet there is plenty more to learn. How well are you versed using Linux, what about JavaScript? Below is a list of topics I could not fit elsewhere. I think they are optional, but I cannot judge that without knowing what kind of job you want in IT.
 
 ### More Books
@@ -359,29 +361,92 @@ Here is a list of skills I am working on to better represent myself. This list f
 	- It may surprise you I never learned blind typing. I mostly type with my index and middle fingers. The typing speed is not bad but people have remarked on it.
 - [ ] [Hot keys]( )
 
-## Near time goals
-In this final section I have created a wish list of things I want to investigate over the cause of the following months.
-For 2020 I focus more on actually creating implementations, beef up my coding skills so to speak. 
-Besides exploring my interests in Deep Learning I am also working on a small Java programming game, which is coming along nicely. 
+## Goals for 2021
+In this final section I have created a wish list of things I want to investigate over the cause of the following year (or months).
+I will focus my attention on developing the four major themes of this page.
 
-2020 overall goals
-- [ ] [Implement Coding Game in Java]( )
-- [ ] [Implement Deep Learning Project Manager]( )
+- [Preparation for the Software Engineering Interview]
+- [Basics of Software Engineering: Data Structure, Algorithms and Graphs]
+- [Machine (Deep) Learning & Computer Vision]
+- [Penetration Testing & Security]
+
+For 2021 I will focus more on actually creating implementations, beef up my coding skills so to speak. The following projects will be my focus, they can be found on my GitHub page
+
+- [ ] [A.I/O - Hacking / Coding game implemented with Java]
+- [ ] [AutoKeras - Deep Learning application to quickly create, train and deploy models with Keras and TensorFlow]
+- [ ] [Face Recognition application - a secretive project I have been working on and not currently available]
+- [ ] [Penetration Testing application & guide - my own take on how to perform enumeration]
+
+### Monthly Goals
+
+January
+- [ ] []
+- [ ] [Breadth-first search]
+- [ ] []
+- [ ] []
+
+February
+- [ ] []
+- [ ] [Depth-first search]
+- [ ] []
+- [ ] [Viruses & worms]
+
+March
+- [ ] []
+- [ ] [Dijkstra's Algorithm]
+- [ ] []
+- [ ] []
+
+April
+- [ ] []
+- [ ] [Geometric Algorithms]
+- [ ] []
+- [ ] []
+
+May
+- [ ] []
+- [ ] [String searching]
+- [ ] []
+- [ ] []
 
 June
-- [ ] [Read Algorithms 4th ed Chapter 1]( )
-- [ ] [Finish TensorFlow: Data and Deployment Specialization]( )
-- [ ] [Recursion]( )
-- [ ] [Breadth-first search]( )
+- [ ] []
+- [ ] [Multi-Threading]
+- [ ] []
+- [ ] []
 
 July
-- [ ] [Read Algorithms 4th ed Chapter 2]( )
-- [ ] [Course - Personality Types At Work]( )
-- [ ] [Recursion]( )
-- [ ] [Depth-first search]( )
+- [ ] []
+- [ ] [Bitwise Operations]
+- [ ] []
+- [ ] []
 
 August
-- [ ] [Read Algorithms 4th ed Chapter 3]( )
-- [ ] [Design Patterns]( )
-- [ ] [String Searching]( )
-- [ ] [Dijkstra algorithm]( )
+- [ ] []
+- [ ] [Object-Oriented Programming]
+- [ ] []
+- [ ] []
+
+September
+- [ ] []
+- [ ] [Design Patterns]
+- [ ] []
+- [ ] []
+
+October
+- [ ] []
+- [ ] [Functional Programming]
+- [ ] []
+- [ ] []
+
+November
+- [ ] []
+- [ ] [Compilers]
+- [ ] []
+- [ ] []
+
+December
+- [ ] []
+- [ ] [Operating Systems]
+- [ ] []
+- [ ] []
