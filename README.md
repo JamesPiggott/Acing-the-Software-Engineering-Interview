@@ -4,7 +4,7 @@ For a while now I want to pursue a career in the software industry as a Data Sci
 In early 2017 ago I came across John Washam's blog and GitHub page on how to 'Ace the Interview' at a big tech company and decided I want do the same. However, John readily admits he made a few mistakes. I intend to learn from them, and I hope you will too.
 This list of topics will prepare you for becoming a Software Engineer / Data Scientist. Just like John's 'aim high' attitude, that includes Google, Apple, Amazon and Microsoft.
 
-Essentially this list is structured into 4 knowledge parts: preparation for the Software Engineering Interview, the basics of Software Engineering: Data Structure, Algorithms and Graphs followed by shorter sections on Machine Learning and Cybersecurity.
+Essentially this list is structured into 4 knowledge parts: preparation for the Software Engineering Interview, the basics of Software Engineering followed by shorter sections on Machine Learning and Cybersecurity.
 
 The list includes references to texts, web pages, YouTube videos, MOOCs and Books. I intend to go easy on reading books and just give you the essential list. Reading takes up a lot of time and I fear knowledge is not retained. The scope of this list is also paired down as much as possible. However, I advice you to practice coding as much as possible. It is a good way to find your niche. You may become disheartened by this list, but try to take heart nontheless. If all of this is new then at least try to integrate these topics into your work or hobby. That way it this information will become more meaningful.
 
@@ -27,6 +27,7 @@ The list includes references to texts, web pages, YouTube videos, MOOCs and Book
     - After 2020 and COVID I intend to adjust my goals. Right now I have achieved seniority in management so that migth give me leverage to prsue new goals. For 2021 I still need to fully establish those.
 
 ## Part 1. Preparation for the Software Engineering Interview
+If you want to become a software engineer there are non-CS skills and habits you need to develop, often called soft-skills. In this section on preparing for the interview the most important ones are listed. 
 
 ### Interview Process & General Interview Prep
 Here are some quick tutorials and tips to prepare for the interview process. I think it will give you a quick impression of what you do not know!
@@ -34,46 +35,39 @@ Here are some quick tutorials and tips to prepare for the interview process. I t
 - [ ] [ABC - Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
 - [ ] [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [ ] [How we hire (Google)](https://careers.google.com/how-we-hire/)
 
-After learning many of the topics described in the sections on Software Engineering and Machine Learning you should have a well rounded knowledge base. To actually get a job at the company of your choice you will need to ace the interview. This section will concentrate on all that is necessary to accomplish just that. If you want to continue learning take a look at the section below entitled Other Topics.
+After learning many of the topics described in the sections on Software Engineering and Machine Learning you should have a well-rounded knowledge base. To actually get a job at the company of your choice you will need to ace the interview. This section will concentrate on all that is necessary to accomplish just that. If you want to continue learning take a look at the section below entitled Other Topics.
 
-### Coding Exercises
-If you are uncertain how well you can code when facing an unexpected challenge try a coding challenge. Seriously there are plenty of online challenge sites.
-
-Some help with challenges
-- [ ] [TopCode tips](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
-
-Challenge websites
-- [ ] [CoderByte](https://coderbyte.com/)
-- [ ] [TopCode](https://www.topcoder.com/)
-- [ ] [Interactive Jupiter Python](https://github.com/donnemartin/interactive-coding-challenges)
+### Coding Exercises and habits
+When I started this page I really did not know how good I was at programming, let alone being a software engineer. In any case becoming the latter is a never ending journey. To discover how good you are and to show your skills to others the following good habits should be adopted.
+- [ ] [Join a coding challenge website - there are many but I will recommend CodeByte](https://coderbyte.com/)
+- [ ] [Ask questions and respond to questions on StackOverflow and GitHub]()
+- [ ] [Join a discussion board for a topic of your choosing]
+    - 
 
 ### Pick a language
-For the interview you will need to select one programming language. I have made the choice for you as I use Java. However, you will need to know more. You will also need to know a scripting language. The obvious choice is Python, which is also popular with Machine Learning.
-As such there are coding example in both Java and [Python](https://github.com/JamesPiggott/PythonSoftwareEngineeringInterview)
+For the interview you will need to select one programming language. My choice is Java. However, you will need to know more. You will also need to know a scripting language. The obvious choice is Python, which is also popular with Machine (Deep) Learning.
+As such there are coding example in both Java and [Python](https://github.com/JamesPiggott/PythonSoftwareEngineeringInterview).
 
 ### Book List
 Despite my reluctance at giving you an endless list of books to read there are a number that can be considered essential. If you read them, delve into them. Don't just rush through cover to cover, but to the exercises, answer the practice questions. That is the best way to retain the knowledge they contain.
 An important book listed below is 'Algorithms' by Sedgewick and Wayne. It assumes you know how to program Java, but other than that it is the most important book listed on this page and on its own contain maybe a quarter of the knowledge required to pass an interview - maybe more if only general topics are discussed. It took me about a year to read it, having stopped along the way numerous times.
-
-#### Introductory
-- [ ] [Linux, Programming and Hacking for Beginners](https://www.amazon.com/dp/B01N0CF3L5)
-	- [ ] This is a book that I wrote. It is an absolute beginners text to Linux and its the command line. There are additional chapters on the basics of programming and hacking. The text is written in a light-hearted tone and contains a number of side articles in which I explain topics of Computer Science. I also review several movies, games and books in which CS plays an important part. For $3.99 you pick up your own copy on Amazon and thereby support me.
 
 #### Java
 - [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=la_B000AQ4JCO_1_1?s=books&ie=UTF8&qid=1504424836&sr=1-1)
 	- I have already touted its importance above. Note that plenty of videos on this page discuss the same topics - especially those on Data Structure and Algorithms.
 
 #### Python
+- [ ] [Beyond The Basic Stuff With Python](https://nostarch.com/beyond-basic-stuff-python)
+    - This a new book and will help you move beyond the beginner stage.
 - [ ] [An introduction to Programming in Python (Sedgewick, Wayne and Dondero)](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/ref=sr_1_3?s=books&ie=UTF8&qid=1504424916&sr=1-3&keywords=an+introduction+to+programming+in+python)
-	- Another excellent book by Sedgewick and Wayne. Its an introductory book to Python Programmign but it does cover advanced topics that you must if you work in the sciences.
-- [ ] [Black Hat Python](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
-	- A quick and dirty look at network programming with Python
+	- Another excellent book by Sedgewick and Wayne. Its an introductory book to Python Programming but it does cover advanced topics that you must if you work in the sciences.
 
 #### Machine / Deep Learning
 When it comes to Machine learning, and these days more likely Deep Learning there are only two books that will really make a difference.
 - [ ] [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?ie=UTF8&qid=1523989891&sr=8-1&keywords=francois+chollet)
-	- Written by Francois Chollet himself. The book is practically new (October 2017), but is already considered the bible to Keras. It is also easy to work with
+	- Written by Francois Chollet himself. The book is practically new (October 2017), but is already considered the bible to Keras. It is also easy to work with.
 - [ ] [Hands-on Machine Learning with Scikit-Learn and Tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=dp_ob_title_bk)
 	- The new 2nd edition covers TensorFlow 2, which integrates the Keras API directly into TensorFlow.
 
