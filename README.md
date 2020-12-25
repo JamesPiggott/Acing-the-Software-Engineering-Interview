@@ -376,71 +376,71 @@ For 2021 I will focus more on actually creating implementations, beef up my codi
 January
 - [ ] []
 - [ ] [Breadth-first search]
-- [ ] []
+- [ ] [Decision Trees]
 - [ ] []
 
 February
 - [ ] []
 - [ ] [Depth-first search]
-- [ ] []
+- [ ] [Deep Learning Algorithm taxonomy]
 - [ ] [Viruses & worms]
 
 March
 - [ ] []
 - [ ] [Dijkstra's Algorithm]
-- [ ] []
+- [ ] [Density-based clustering]
 - [ ] []
 
 April
 - [ ] []
 - [ ] [Geometric Algorithms]
-- [ ] []
+- [ ] [CNN]
 - [ ] []
 
 May
 - [ ] []
 - [ ] [String searching]
-- [ ] []
+- [ ] [Bayesian Networks]
 - [ ] []
 
 June
 - [ ] []
 - [ ] [Multi-Threading]
-- [ ] []
+- [ ] [RNN]
 - [ ] []
 
 July
 - [ ] []
 - [ ] [Bitwise Operations]
-- [ ] []
+- [ ] [Support Vector Machines]
 - [ ] []
 
 August
 - [ ] []
 - [ ] [Object-Oriented Programming]
-- [ ] []
+- [ ] [GANs]
 - [ ] []
 
 September
 - [ ] []
 - [ ] [Design Patterns]
-- [ ] []
+- [ ] [Neural Networks]
 - [ ] []
 
 October
 - [ ] []
 - [ ] [Functional Programming]
-- [ ] []
+- [ ] [Gradient Descent]
 - [ ] []
 
 November
 - [ ] []
 - [ ] [Compilers]
-- [ ] []
+- [ ] [Hierarchical Clustering]
 - [ ] []
 
 December
 - [ ] []
 - [ ] [Operating Systems]
-- [ ] []
+- [ ] [Reinforcement Learning]
 - [ ] []
