@@ -377,7 +377,7 @@ January
 - [ ] []
 - [ ] [Breadth-first search]
 - [ ] [Decision Trees]
-- [ ] []
+- [ ] [NMAP & Renumeration]
 
 February
 - [ ] []
